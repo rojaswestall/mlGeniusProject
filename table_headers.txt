@@ -1,0 +1,25 @@
+Table Headers
+
+Artist
+Song
+Ref ID
+Annotation ID
+
+iq 	A	#
+followers_count	A	#
+release date	S	Date
+annotation count R #
+featured_video S bool
+hot 	S	bool
+accepted_annotations 	S 	#
+num_of_contributers 	R 	# (# of authors)
+pyong_count 	S 	#
+is_verified 	A 	bool
+meme_verified 	A 	bool
+classification 	S 	catorigorical
+featured? 	R 	bool
+len_ref_text 	R 	# (fragment)
+is_description 	R 	bool
+total_votes 	R 	#
+pinned 		A 	bool
+comment_count 	A 	#
