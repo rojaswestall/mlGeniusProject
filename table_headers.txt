@@ -23,3 +23,18 @@ is_description 	R 	bool
 total_votes 	R 	#
 pinned 		A 	bool
 comment_count 	A 	#
+
+Initial Number of Features: 22 (including artist,song,ref,annotation) 
+
+<------------------------------>
+
+Next Steps: 
+1. Data Cleaning - Date, len (Text) 
+2. Zero R 
+3. Dataset: 	
+	A. Full model
+	B. Decision tree feature selection 
+	C. Random Forest feature selection 
+4. Models to Test:
+	1. Nearest Neighbor 
+	2. Regression (Linear, polynomial, etc.)
