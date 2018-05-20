@@ -122,24 +122,24 @@ def get_data(key, obj):
     if key in obj:
             data = obj[key]
             if data is None:
-                return 'N/A'
+                return '?'
     else:
-        data = 'N/A'
+        data = '?'
 
     return data
 
 
 def get_days(release):
     # print release
-    if release is None or release == 'N/A':
-        return 'N/A'
+    if release is None or release == '?':
+        return '?'
     else:
         today = date.today()
         year, month, day = release.split('-')
         release_date = date(int(year), int(month), int(day))
         time_from_release = abs(release_date - today)
         return time_from_release.days
-    return 'N/A'
+    return '?'
 
 def add_data(header, info):
     data[header].append(info)
