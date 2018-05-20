@@ -9,8 +9,9 @@ import unicodedata
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
 
-artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX", 
-               "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
+artists = ["Sia", "2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX", 
+               "The Game", "T.I.", "Kanye West", "Kendrick Lamar", "Drake"
+               ]
 
 data = {
 'Artist': [], 
@@ -88,7 +89,7 @@ def get_artist_songs(artist_id, num):
     request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
     request.add_header("User-Agent", "")
 
-    response = urllib2.urlopen(request, timeout=3)
+    response = urllib2.urlopen(request, timeout=10)
     raw = response.read()
     json_obj = json.loads(raw)
     return json_obj['response']['songs']
@@ -113,25 +114,16 @@ def get_data(key, obj):
     else:
         data = 'N/A'
 
-    # if type(data) is str:
-    #     # return data.replace(u'\xa0', u' ')
-    #     return data.encode('utf-8').strip()
-
     return data
 
 def add_data(header, info):
     data[header].append(info)
 
 def writet_to_csv(data):
-    # df = pandas.DataFrame(data, columns = headers)
     df = pandas.DataFrame(data)
     df.to_csv('./data.csv')
 
 # Where we collect the data!
-
-# if __name__ == '__main__':
-#     writet_to_csv(data)
-
 if __name__ == '__main__':
 
     for artist in artists:
@@ -153,6 +145,9 @@ if __name__ == '__main__':
 
 
         for song in art_songs:
+
+            # print json.dumps(song, indent=4, sort_keys=True)
+
             song_id = get_data('id', song)
             song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii','ignore')
             annotation_count = get_data('annotation_count', song)
@@ -165,8 +160,8 @@ if __name__ == '__main__':
             number_verified_annotations = get_data('verified_annotations', stats)
             page_views = get_data('pageviews', stats)
             pyong_count = get_data('pyongs_count', song)
-            description_annotation = get_data('description_annotation', song)
-            classification = get_data('classification', description_annotation)
+            # description_annotation = get_data('description_annotation', song)
+            # classification = get_data('classification', description_annotation)
 
             song_refs = get_referents(song_id)
 
@@ -176,8 +171,9 @@ if __name__ == '__main__':
                 featured = 'N/A'
                 length_referent_text = len(get_data('content', get_data('range', referent))) #length of the text to which the referent is referring. The length of that actual annotation you can get below from annotation
                 is_description = get_data('is_description', referent)
+                classification = get_data('classification', referent)
 
-                print 'there are/is ' + str(len(referent['annotations'])) + ' annotation/s for this current referent'
+                # print 'there are/is ' + str(len(referent['annotations'])) + ' annotation/s for this current referent'
 
                 for annotation in referent['annotations']:
 
@@ -214,17 +210,8 @@ if __name__ == '__main__':
                     add_data('Comment_Count', comment_count)
                     add_data('Annotation_Is_Verified', annotation_is_verified)
 
-    print json.dumps(data, indent=4, sort_keys=True)
+    # print json.dumps(data, indent=4, sort_keys=True)
     writet_to_csv(data)
-
-
-                    # print json.dumps(song, indent=4, sort_keys=True)
-
-        
-        # print json.dumps(at_songs, indent=4, sort_keys=True)
-        # print at_songs
-        # for i in range(len(at_songs['response']['songs'])):
-            # print at_songs['response']['songs'][i]['full_title']
 
 
 
