@@ -1,44 +1,50 @@
 # https://docs.genius.com/
 
-import requests
+# import requests
 import urllib2
 import json
 import pandas
 import unicodedata
-import time
+# import time
 from datetime import date
 
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
 
+<<<<<<< HEAD
 artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Drake", "DMX",
             "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
+=======
+artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
+           "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
+>>>>>>> 65e971dec32958f83c343913e95035a0b68e5141
 
 data = {
-'Artist': [], 
-'Genius_IQ': [], 
-'Followers': [], 
-'Is_Verified': [], 
-'Meme_Verified': [],
-'Song_Title': [],
-'Annotation_Count': [],
-'Release_Date': [], 
-'Featured_Video': [], 
-'Hot': [],
-'Accepted_Annotations': [],
-'Number_Contributors': [],
-'Number_Verified_Annotations': [],
-'Page_Views': [],
-'Pyong_Count': [], 
-'Classification': [], 
-'Referent_ID': [],
-'Length_Referent_Text': [], 
-'Is_Description': [], 
-'Total_Votes': [],
-'Pinned': [], 
-'Comment_Count': [],
-'Annotation_Is_Verified': []
+    'Artist': [],
+    'Genius_IQ': [],
+    'Followers': [],
+    'Is_Verified': [],
+    'Meme_Verified': [],
+    'Song_Title': [],
+    'Annotation_Count': [],
+    'Release_Date': [],
+    'Featured_Video': [],
+    'Hot': [],
+    'Accepted_Annotations': [],
+    'Number_Contributors': [],
+    'Number_Verified_Annotations': [],
+    'Page_Views': [],
+    'Pyong_Count': [],
+    'Classification': [],
+    'Referent_ID': [],
+    'Length_Referent_Text': [],
+    'Is_Description': [],
+    'Total_Votes': [],
+    'Pinned': [],
+    'Comment_Count': [],
+    'Annotation_Is_Verified': []
 }
+
 
 def genius_search(term):
     """Search genius, given a string. Search can return anything"""
@@ -88,6 +94,7 @@ def get_artist_songs(artist_id, num):
     json_obj = json.loads(raw)
     return json_obj['response']['songs']
 
+
 def get_song_info(song_id):
     _URL_SONG = "songs/{}".format(song_id)
     querystring = _URL_API + _URL_SONG
@@ -114,6 +121,7 @@ def get_referents(song_id):
     json_obj = json.loads(raw)
     return json_obj['response']['referents']
 
+
 def get_data(key, obj):
     # Make sure that the key exists in the object
     if key in obj:
@@ -125,6 +133,7 @@ def get_data(key, obj):
 
     return data
 
+
 def get_days(release):
     # print release
     if release is None or release == 'N/A':
@@ -135,13 +144,21 @@ def get_days(release):
         release_date = date(int(year), int(month), int(day))
         time_from_release = abs(release_date - today)
         return time_from_release.days
+<<<<<<< HEAD
     
+=======
+    return 'N/A'
+
+
+>>>>>>> 65e971dec32958f83c343913e95035a0b68e5141
 def add_data(header, info):
     data[header].append(info)
+
 
 def writet_to_csv(data):
     df = pandas.DataFrame(data)
     df.to_csv('./data.csv')
+
 
 # Where we collect the data!
 if __name__ == '__main__':
@@ -162,12 +179,12 @@ if __name__ == '__main__':
 
         print artist
 
-
         for art_song in art_songs:
+            print "   ."
             song_id = get_data('id', art_song)
             song = get_song_info(song_id)
 
-            song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii','ignore')
+            song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii', 'ignore')
             annotation_count = get_data('annotation_count', song)
             release_date = get_days(get_data('release_date', song))
             featured_video = get_data('featured_video', song)
@@ -181,14 +198,12 @@ if __name__ == '__main__':
 
             song_refs = get_referents(song_id)
 
-
             for referent in song_refs:
 
                 referent_id = get_data('id', referent)
-                length_referent_text = len(get_data('content', get_data('range', referent))) #length of the text to which the referent is referring. The length of that actual annotation you can get below from annotation
+                length_referent_text = len(get_data('content', get_data('range', referent)))  # length of the text to which the referent is referring. The length of that actual annotation you can get below from annotation
                 is_description = get_data('is_description', referent)
                 classification = get_data('classification', referent)
-
 
                 for annotation in referent['annotations']:
 
@@ -224,6 +239,3 @@ if __name__ == '__main__':
 
     # print json.dumps(data, indent=4, sort_keys=True)
     writet_to_csv(data)
-
-
-
