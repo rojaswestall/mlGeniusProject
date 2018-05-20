@@ -9,9 +9,10 @@ import unicodedata
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
 
-artists = ["Sia", "2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX", 
-               "The Game", "T.I.", "Kanye West", "Kendrick Lamar", "Drake"
-               ]
+artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
+            "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
+
+# "The Game", "T.I.", "Kanye West", "Kendrick Lamar"
 
 data = {
 'Artist': [], 
@@ -54,7 +55,7 @@ def genius_search(term):
     request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
     request.add_header("User-Agent", "")
 
-    response = urllib2.urlopen(request, timeout=3)
+    response = urllib2.urlopen(request, timeout=10)
     raw = response.read()
     json_obj = json.loads(raw)
     return json_obj
@@ -75,7 +76,7 @@ def get_artist(artist):
         request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
         request.add_header("User-Agent", "")
 
-        response = urllib2.urlopen(request, timeout=3)
+        response = urllib2.urlopen(request, timeout=10)
         raw = response.read()
         json_obj = json.loads(raw)
         return json_obj['response']['artist']
@@ -94,6 +95,19 @@ def get_artist_songs(artist_id, num):
     json_obj = json.loads(raw)
     return json_obj['response']['songs']
 
+def get_song_info(song_id):
+    _URL_SONG = "songs/{}".format(song_id)
+    querystring = _URL_API + _URL_SONG
+    request = urllib2.Request(querystring)
+    request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
+    request.add_header("User-Agent", "")
+
+    response = urllib2.urlopen(request, timeout=10)
+    raw = response.read()
+    json_obj = json.loads(raw)
+    return json_obj['response']['song']
+
+
 def get_referents(song_id):
     """ Get referent objects for a song given a song's ID"""
     _URL_REFERENTS = "referents?song_id={}".format(song_id)
@@ -102,7 +116,7 @@ def get_referents(song_id):
     request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
     request.add_header("User-Agent", "")
 
-    response = urllib2.urlopen(request, timeout=3)
+    response = urllib2.urlopen(request, timeout=10)
     raw = response.read()
     json_obj = json.loads(raw)
     return json_obj['response']['referents']
@@ -144,11 +158,12 @@ if __name__ == '__main__':
 
 
 
-        for song in art_songs:
+        for art_song in art_songs:
 
             # print json.dumps(song, indent=4, sort_keys=True)
+            song_id = get_data('id', art_song)
 
-            song_id = get_data('id', song)
+            song = get_song_info(song_id)
             song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii','ignore')
             annotation_count = get_data('annotation_count', song)
             release_date = get_data('release_date', song)
