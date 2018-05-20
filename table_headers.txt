@@ -8,7 +8,7 @@ Annotation ID
 iq 	A	#
 followers_count	A	#
 release date	S	Date
-annotation count R #
+annotation count S #
 featured_video S bool
 hot 	S	bool
 accepted_annotations 	S 	#

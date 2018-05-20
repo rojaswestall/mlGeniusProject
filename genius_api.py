@@ -3,13 +3,49 @@
 import requests
 import urllib2
 import json
+import pandas
 
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
+_URL_API = "https://api.genius.com/"
 
+artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX", 
+               "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
+
+data = {
+'Artist': [], 
+'Genius_IQ': [], 
+'Followers': [], 
+'Is_Verified': [], 
+'Meme_Verified': [],
+'Song_Title': [],
+'Annotation_Count': [],
+'Release_Date': [], 
+'Featured_Video': [], 
+'Hot': [],
+'Accepted_Annotations': [],
+'Number_Contributers': [],
+'Number_Verified_Annotations': [],
+'Page_Views': [],
+'Pyong_Count': [], 
+'Classification': [], 
+'Referent_ID': [],
+'Featured': [], 
+'Length_Referent_Text': [], 
+'Is_Description': [], 
+'Total_Votes': [], 
+'Annotation_ID': [],
+'Pinned': [], 
+'Comment_Count': [],
+'Annotation_Is_Verified': []
+}
+
+headers = [ 'Artist', 'Genius_IQ', 'Followers', 'Is_Verified', 'Meme_Verified', 
+            'Song_Title', 'Annotation_Count', 'Release_Date', 'Featured_Video', 'Hot', 'Accepted_Annotations', 'Number_Contributers', 'Number_Verified_Annotations', 'Page_Views', 'Pyong_Count', 'Classification',
+            'Referent_ID', 'Featured', 'Length_Referent_Text', 'Is_Description', 'Total_Votes', 
+            'Annotation_ID', 'Pinned', 'Comment_Count', 'Annotation_Is_Verified']
 
 def genius_search(term):
     """Search genius, given a string. Search can return anything"""
-    _URL_API = "https://api.genius.com/"
     _URL_SEARCH = "search?q="
     querystring = _URL_API + _URL_SEARCH + urllib2.quote(term)
     request = urllib2.Request(querystring)
@@ -22,22 +58,31 @@ def genius_search(term):
     return json_obj
 
 
-def genius_search_artist(artist):
-    """Return the id of an artist given a search term"""
+def get_artist(artist):
+    """Returns an artist object given a search term"""
     songres = genius_search(artist)
     # hits = songres['response']['hits']
     if len(songres['response']['hits']) == 0:
         print 'There were no artists that matched the search'
         return -1
     else:
-        return songres['response']['hits'][0]['result']['primary_artist']['id']
+        artist_id = songres['response']['hits'][0]['result']['primary_artist']['id']
+        _URL_ARTIST = "artists/{}".format(artist_id)
+        querystring = _URL_API + _URL_ARTIST
+        request = urllib2.Request(querystring)
+        request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
+        request.add_header("User-Agent", "")
+
+        response = urllib2.urlopen(request, timeout=3)
+        raw = response.read()
+        json_obj = json.loads(raw)
+        return json_obj['response']['artist']
 
 
-def genius_artist_songs(artist_id, num):
-    """ Get songs for an artist given an artists ID"""
-    _URL_API = "https://api.genius.com/"
-    _URL_ARTIST = "artists/{}/songs?sort=popularity&per_page={}".format(artist_id, str(num))
-    querystring = _URL_API + _URL_ARTIST
+def get_artist_songs(artist_id, num):
+    """ Get song objects for an artist given an artists ID"""
+    _URL_SONGS = "artists/{}/songs?sort=popularity&per_page={}".format(artist_id, str(num))
+    querystring = _URL_API + _URL_SONGS
     request = urllib2.Request(querystring)
     request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
     request.add_header("User-Agent", "")
@@ -45,20 +90,138 @@ def genius_artist_songs(artist_id, num):
     response = urllib2.urlopen(request, timeout=3)
     raw = response.read()
     json_obj = json.loads(raw)
-    return json_obj
+    return json_obj['response']['songs']
 
+def get_referents(song_id):
+    """ Get referent objects for a song given a song's ID"""
+    _URL_REFERENTS = "referents?song_id={}".format(song_id)
+    querystring = _URL_API + _URL_REFERENTS
+    request = urllib2.Request(querystring)
+    request.add_header("Authorization", "Bearer " + AUTH_TOKEN)
+    request.add_header("User-Agent", "")
+
+    response = urllib2.urlopen(request, timeout=3)
+    raw = response.read()
+    json_obj = json.loads(raw)
+    return json_obj['response']['referents']
+
+def get_data(key, obj):
+    # Make sure that the key exists in the object
+    if key in obj:
+            data = obj[key]
+    else:
+        data = 'N/A'
+
+    # if type(data) is str:
+    #     # return data.replace(u'\xa0', u' ')
+    #     return data.encode('utf-8').strip()
+    
+    return data
+
+def add_data(header, info):
+    data[header].append(info)
+
+def writet_to_csv(data):
+    # df = pandas.DataFrame(data, columns = headers)
+    df = pandas.DataFrame(data)
+    df.to_csv('./data.csv')
+
+# Where we collect the data!
+
+# if __name__ == '__main__':
+#     writet_to_csv(data)
 
 if __name__ == '__main__':
 
-    artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX", 
-               "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
-    for at in artists:
-        at_id = genius_search_artist(at)
+    for artist in artists:
+        art_obj = get_artist(artist)
 
-        if at_id == -1:
+        if art_obj == -1:
             continue
-        print "\n"
-        print at
-        at_songs = genius_artist_songs(at_id, 5)
-        for i in range(len(at_songs['response']['songs'])):
-            print at_songs['response']['songs'][i]['full_title']
+
+        art_id = get_data('id', art_obj)
+        art_iq = get_data('iq', art_obj)
+        art_followers = get_data('followers_count', art_obj)
+        art_verified = get_data('is_verified', art_obj)
+        art_meme_verified = get_data('is_meme_verified', art_obj)
+
+        print artist
+
+        art_songs = get_artist_songs(art_id, 1)
+
+        for song in art_songs:
+            song_id = get_data('id', song)
+            song_title = get_data('full_title', song)
+            annotation_count = get_data('annotation_count', song)
+            release_date = get_data('release_date', song)
+            featured_video = get_data('featured_video', song)
+            stats = get_data('stats', song)
+            hot = get_data('hot', stats)
+            accepted_annotations = get_data('accepted_annotations', stats)
+            number_contributers = get_data('contributers', stats)
+            number_verified_annotations = get_data('verified_annotations', stats)
+            page_views = get_data('pageviews', stats)
+            pyong_count = get_data('pyongs_count', song)
+            description_annotation = get_data('description_annotation', song)
+            classification = get_data('classification', description_annotation)
+
+            song_refs = get_referents(song_id)
+
+            for referent in song_refs:
+
+                referent_id = get_data('id', referent)
+                featured = 'N/A'
+                length_referent_text = len(get_data('content', get_data('range', referent))) #length of the text to which the referent is referring. The length of that actual annotation you can get below from annotation
+                is_description = get_data('is_description', referent)
+
+                print 'there are/is ' + str(len(referent['annotations'])) + ' annotation/s for this current referent'
+
+                for annotation in referent['annotations']:
+
+                    total_votes = get_data('votes_total', annotation)
+                    annotation_id = get_data('annotator_id', annotation) #is this what we want though?
+                    pinned = get_data('pinned', annotation)
+                    comment_count = get_data('comment_count', annotation)
+                    annotation_is_verified = get_data('verified', annotation)
+
+                    # Adding the data to our data dictionary
+                    add_data('Artist', artist)
+                    add_data('Genius_IQ', art_iq)
+                    add_data('Followers', art_followers)
+                    add_data('Is_Verified', art_verified)
+                    add_data('Meme_Verified', art_meme_verified)
+                    add_data('Song_Title', song_title)
+                    add_data('Annotation_Count', annotation_count)
+                    add_data('Release_Date', release_date)
+                    add_data('Featured_Video', featured_video)
+                    add_data('Hot', hot)
+                    add_data('Accepted_Annotations', accepted_annotations)
+                    add_data('Number_Contributers', number_contributers)
+                    add_data('Number_Verified_Annotations', number_verified_annotations)
+                    add_data('Page_Views', page_views)
+                    add_data('Pyong_Count', pyong_count)
+                    add_data('Classification', classification)
+                    add_data('Referent_ID', referent_id)
+                    add_data('Featured', featured)
+                    add_data('Length_Referent_Text', length_referent_text)
+                    add_data('Is_Description', is_description)
+                    add_data('Total_Votes', total_votes)
+                    add_data('Annotation_ID', annotation_id)
+                    add_data('Pinned', pinned)
+                    add_data('Comment_Count', comment_count)
+                    add_data('Annotation_Is_Verified', annotation_is_verified)
+
+    print json.dumps(data, indent=4, sort_keys=True)
+    writet_to_csv(data)
+
+
+                    # print json.dumps(song, indent=4, sort_keys=True)
+
+        
+        # print json.dumps(at_songs, indent=4, sort_keys=True)
+        # print at_songs
+        # for i in range(len(at_songs['response']['songs'])):
+            # print at_songs['response']['songs'][i]['full_title']
+
+
+
