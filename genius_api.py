@@ -11,7 +11,7 @@ from datetime import date
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
 
-artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
+artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Drake", "DMX",
             "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
 
 data = {
@@ -118,20 +118,24 @@ def get_data(key, obj):
     # Make sure that the key exists in the object
     if key in obj:
             data = obj[key]
+            if data is None:
+                return 'N/A'
     else:
         data = 'N/A'
 
     return data
 
 def get_days(release):
-    if release is not None:
+    # print release
+    if release is None or release == 'N/A':
+        return 'N/A'
+    else:
         today = date.today()
         year, month, day = release.split('-')
         release_date = date(int(year), int(month), int(day))
         time_from_release = abs(release_date - today)
         return time_from_release.days
-    return 'N/A'
-
+    
 def add_data(header, info):
     data[header].append(info)
 
@@ -141,7 +145,6 @@ def writet_to_csv(data):
 
 # Where we collect the data!
 if __name__ == '__main__':
-
 
     for artist in artists:
         art_obj = get_artist(artist)
