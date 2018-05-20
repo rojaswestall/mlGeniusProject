@@ -5,6 +5,8 @@ import urllib2
 import json
 import pandas
 import unicodedata
+import time
+from datetime import date
 
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
@@ -12,7 +14,6 @@ _URL_API = "https://api.genius.com/"
 artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
             "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
 
-# "The Game", "T.I.", "Kanye West", "Kendrick Lamar"
 
 data = {
 'Artist': [], 
@@ -26,26 +27,19 @@ data = {
 'Featured_Video': [], 
 'Hot': [],
 'Accepted_Annotations': [],
-'Number_Contributers': [],
+'Number_Contributors': [],
 'Number_Verified_Annotations': [],
 'Page_Views': [],
 'Pyong_Count': [], 
 'Classification': [], 
 'Referent_ID': [],
-'Featured': [], 
 'Length_Referent_Text': [], 
 'Is_Description': [], 
-'Total_Votes': [], 
-'Annotation_ID': [],
+'Total_Votes': [],
 'Pinned': [], 
 'Comment_Count': [],
 'Annotation_Is_Verified': []
 }
-
-headers = [ 'Artist', 'Genius_IQ', 'Followers', 'Is_Verified', 'Meme_Verified', 
-            'Song_Title', 'Annotation_Count', 'Release_Date', 'Featured_Video', 'Hot', 'Accepted_Annotations', 'Number_Contributers', 'Number_Verified_Annotations', 'Page_Views', 'Pyong_Count', 'Classification',
-            'Referent_ID', 'Featured', 'Length_Referent_Text', 'Is_Description', 'Total_Votes', 
-            'Annotation_ID', 'Pinned', 'Comment_Count', 'Annotation_Is_Verified']
 
 def genius_search(term):
     """Search genius, given a string. Search can return anything"""
@@ -130,6 +124,15 @@ def get_data(key, obj):
 
     return data
 
+def get_days(release):
+    if release is not None:
+        today = date.today()
+        year, month, day = release.split('-')
+        release_date = date(int(year), int(month), int(day))
+        time_from_release = abs(release_date - today)
+        return time_from_release.days
+    return 'N/A'
+
 def add_data(header, info):
     data[header].append(info)
 
@@ -139,6 +142,7 @@ def writet_to_csv(data):
 
 # Where we collect the data!
 if __name__ == '__main__':
+
 
     for artist in artists:
         art_obj = get_artist(artist)
@@ -152,48 +156,41 @@ if __name__ == '__main__':
         art_verified = get_data('is_verified', art_obj)
         art_meme_verified = get_data('is_meme_verified', art_obj)
 
-        print artist
-
         art_songs = get_artist_songs(art_id, 10)
 
+        print artist
 
 
         for art_song in art_songs:
-
-            # print json.dumps(song, indent=4, sort_keys=True)
             song_id = get_data('id', art_song)
-
             song = get_song_info(song_id)
+
             song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii','ignore')
             annotation_count = get_data('annotation_count', song)
-            release_date = get_data('release_date', song)
+            release_date = get_days(get_data('release_date', song))
             featured_video = get_data('featured_video', song)
             stats = get_data('stats', song)
             hot = get_data('hot', stats)
             accepted_annotations = get_data('accepted_annotations', stats)
-            number_contributers = get_data('contributers', stats)
+            number_contributors = get_data('contributors', stats)
             number_verified_annotations = get_data('verified_annotations', stats)
             page_views = get_data('pageviews', stats)
             pyong_count = get_data('pyongs_count', song)
-            # description_annotation = get_data('description_annotation', song)
-            # classification = get_data('classification', description_annotation)
 
             song_refs = get_referents(song_id)
+
 
             for referent in song_refs:
 
                 referent_id = get_data('id', referent)
-                featured = 'N/A'
                 length_referent_text = len(get_data('content', get_data('range', referent))) #length of the text to which the referent is referring. The length of that actual annotation you can get below from annotation
                 is_description = get_data('is_description', referent)
                 classification = get_data('classification', referent)
 
-                # print 'there are/is ' + str(len(referent['annotations'])) + ' annotation/s for this current referent'
 
                 for annotation in referent['annotations']:
 
                     total_votes = get_data('votes_total', annotation)
-                    annotation_id = get_data('annotator_id', annotation) #is this what we want though?
                     pinned = get_data('pinned', annotation)
                     comment_count = get_data('comment_count', annotation)
                     annotation_is_verified = get_data('verified', annotation)
@@ -210,17 +207,15 @@ if __name__ == '__main__':
                     add_data('Featured_Video', featured_video)
                     add_data('Hot', hot)
                     add_data('Accepted_Annotations', accepted_annotations)
-                    add_data('Number_Contributers', number_contributers)
+                    add_data('Number_Contributors', number_contributors)
                     add_data('Number_Verified_Annotations', number_verified_annotations)
                     add_data('Page_Views', page_views)
                     add_data('Pyong_Count', pyong_count)
                     add_data('Classification', classification)
                     add_data('Referent_ID', referent_id)
-                    add_data('Featured', featured)
                     add_data('Length_Referent_Text', length_referent_text)
                     add_data('Is_Description', is_description)
                     add_data('Total_Votes', total_votes)
-                    add_data('Annotation_ID', annotation_id)
                     add_data('Pinned', pinned)
                     add_data('Comment_Count', comment_count)
                     add_data('Annotation_Is_Verified', annotation_is_verified)
