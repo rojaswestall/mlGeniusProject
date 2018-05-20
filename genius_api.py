@@ -14,7 +14,6 @@ _URL_API = "https://api.genius.com/"
 artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
             "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
 
-
 data = {
 'Artist': [], 
 'Genius_IQ': [], 
@@ -156,7 +155,7 @@ if __name__ == '__main__':
         art_verified = get_data('is_verified', art_obj)
         art_meme_verified = get_data('is_meme_verified', art_obj)
 
-        art_songs = get_artist_songs(art_id, 10)
+        art_songs = get_artist_songs(art_id, 30)
 
         print artist
 
