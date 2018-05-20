@@ -11,13 +11,8 @@ from datetime import date
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
 
-<<<<<<< HEAD
-artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Drake", "DMX",
-            "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
-=======
 artists = ["2Pac", "Eminem", "Ice Cube", "Outkast", "Nas", "DMX",
            "The Game", "T.I.", "Kanye West", "Kendrick Lamar"]
->>>>>>> 65e971dec32958f83c343913e95035a0b68e5141
 
 data = {
     'Artist': [],
@@ -144,13 +139,8 @@ def get_days(release):
         release_date = date(int(year), int(month), int(day))
         time_from_release = abs(release_date - today)
         return time_from_release.days
-<<<<<<< HEAD
-    
-=======
     return 'N/A'
 
-
->>>>>>> 65e971dec32958f83c343913e95035a0b68e5141
 def add_data(header, info):
     data[header].append(info)
 
