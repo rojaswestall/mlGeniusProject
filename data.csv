@@ -1,1 +1,101 @@
 ,Accepted_Annotations,Annotation_Count,Annotation_ID,Annotation_Is_Verified,Artist,Classification,Comment_Count,Featured,Featured_Video,Followers,Genius_IQ,Hot,Is_Description,Is_Verified,Length_Referent_Text,Meme_Verified,Number_Contributers,Number_Verified_Annotations,Page_Views,Pinned,Pyong_Count,Referent_ID,Release_Date,Song_Title,Total_Votes
+0,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,58,False,N/A,N/A,2015829,False,338,13977012,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),0
+1,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,43,False,N/A,N/A,2015829,False,338,13976984,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),0
+2,N/A,104,N/A,False,2Pac,N/A,1,N/A,N/A,2660,N/A,False,False,False,39,False,N/A,N/A,2015829,False,338,379233,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),0
+3,N/A,104,N/A,False,2Pac,N/A,1,N/A,N/A,2660,N/A,False,False,False,54,False,N/A,N/A,2015829,False,338,11155900,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),5
+4,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,42,False,N/A,N/A,2015829,False,338,11155839,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),7
+5,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,50,False,N/A,N/A,2015829,False,338,11155821,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),6
+6,N/A,104,N/A,False,2Pac,N/A,1,N/A,N/A,2660,N/A,False,False,False,27,False,N/A,N/A,2015829,False,338,7742973,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),6
+7,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,14,False,N/A,N/A,2015829,False,338,4352943,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),9
+8,N/A,104,N/A,False,2Pac,N/A,0,N/A,N/A,2660,N/A,False,False,False,40,False,N/A,N/A,2015829,False,338,3999767,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),15
+9,N/A,104,N/A,False,2Pac,N/A,2,N/A,N/A,2660,N/A,False,False,False,38,False,N/A,N/A,2015829,False,338,3999766,N/A,Hit 'Em Up by 2Pac (Ft. Outlawz),5
+10,N/A,122,N/A,False,Eminem,N/A,0,N/A,N/A,17568,144243,False,False,True,68,True,N/A,N/A,12190730,False,5604,12697856,N/A,Rap God by Eminem,8
+11,N/A,122,N/A,False,Eminem,N/A,0,N/A,N/A,17568,144243,False,False,True,8,True,N/A,N/A,12190730,False,5604,10630658,N/A,Rap God by Eminem,26
+12,N/A,122,N/A,False,Eminem,N/A,1,N/A,N/A,17568,144243,False,False,True,12,True,N/A,N/A,12190730,False,5604,10306563,N/A,Rap God by Eminem,47
+13,N/A,122,N/A,True,Eminem,N/A,50,N/A,N/A,17568,144243,False,False,True,68,True,N/A,N/A,12190730,True,5604,5140285,N/A,Rap God by Eminem,1420
+14,N/A,122,N/A,True,Eminem,N/A,155,N/A,N/A,17568,144243,False,False,True,81,True,N/A,N/A,12190730,True,5604,5140282,N/A,Rap God by Eminem,1737
+15,N/A,122,N/A,True,Eminem,N/A,86,N/A,N/A,17568,144243,False,False,True,45,True,N/A,N/A,12190730,True,5604,5140277,N/A,Rap God by Eminem,3154
+16,N/A,122,N/A,False,Eminem,N/A,1,N/A,N/A,17568,144243,False,False,True,6,True,N/A,N/A,12190730,False,5604,2892634,N/A,Rap God by Eminem,123
+17,N/A,122,N/A,False,Eminem,N/A,0,N/A,N/A,17568,144243,False,False,True,18,True,N/A,N/A,12190730,False,5604,2716951,N/A,Rap God by Eminem,238
+18,N/A,122,N/A,False,Eminem,N/A,1,N/A,N/A,17568,144243,False,False,True,108,True,N/A,N/A,12190730,False,5604,2624091,N/A,Rap God by Eminem,95
+19,N/A,122,N/A,False,Eminem,N/A,0,N/A,N/A,17568,144243,False,False,True,215,True,N/A,N/A,12190730,False,5604,2621146,N/A,Rap God by Eminem,216
+20,N/A,49,N/A,False,Ice Cube,N/A,1,N/A,N/A,419,N/A,False,False,False,41,False,N/A,N/A,1708869,False,146,14074456,N/A,Fuck tha Police by N.W.A,0
+21,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,39,False,N/A,N/A,1708869,False,146,14074450,N/A,Fuck tha Police by N.W.A,0
+22,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,31,False,N/A,N/A,1708869,False,146,14074437,N/A,Fuck tha Police by N.W.A,1
+23,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,41,False,N/A,N/A,1708869,False,146,14062364,N/A,Fuck tha Police by N.W.A,0
+24,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,37,False,N/A,N/A,1708869,False,146,14062356,N/A,Fuck tha Police by N.W.A,0
+25,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,116,False,N/A,N/A,1708869,False,146,14062341,N/A,Fuck tha Police by N.W.A,0
+26,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,44,False,N/A,N/A,1708869,False,146,14062306,N/A,Fuck tha Police by N.W.A,0
+27,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,26,False,N/A,N/A,1708869,False,146,14062265,N/A,Fuck tha Police by N.W.A,0
+28,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,86,False,N/A,N/A,1708869,False,146,13981969,N/A,Fuck tha Police by N.W.A,0
+29,N/A,49,N/A,False,Ice Cube,N/A,0,N/A,N/A,419,N/A,False,False,False,76,False,N/A,N/A,1708869,False,146,13981936,N/A,Fuck tha Police by N.W.A,1
+30,N/A,18,N/A,False,Outkast,N/A,1,N/A,N/A,693,N/A,False,False,False,126,False,N/A,N/A,932349,False,84,13538943,N/A,Hey Ya! by OutKast,1
+31,N/A,18,N/A,False,Outkast,N/A,1,N/A,N/A,693,N/A,False,False,False,106,False,N/A,N/A,932349,False,84,13363332,N/A,Hey Ya! by OutKast,4
+32,N/A,18,N/A,False,Outkast,N/A,3,N/A,N/A,693,N/A,False,False,False,151,False,N/A,N/A,932349,False,84,11540677,N/A,Hey Ya! by OutKast,32
+33,N/A,18,N/A,False,Outkast,N/A,1,N/A,N/A,693,N/A,False,False,False,88,False,N/A,N/A,932349,False,84,11483793,N/A,Hey Ya! by OutKast,24
+34,N/A,18,N/A,False,Outkast,N/A,2,N/A,N/A,693,N/A,False,False,False,153,False,N/A,N/A,932349,False,84,11483776,N/A,Hey Ya! by OutKast,35
+35,N/A,18,N/A,False,Outkast,N/A,1,N/A,N/A,693,N/A,False,False,False,79,False,N/A,N/A,932349,False,84,11483769,N/A,Hey Ya! by OutKast,25
+36,N/A,18,N/A,False,Outkast,N/A,0,N/A,N/A,693,N/A,False,False,False,259,False,N/A,N/A,932349,False,84,11280303,N/A,Hey Ya! by OutKast,35
+37,N/A,18,N/A,False,Outkast,N/A,6,N/A,N/A,693,N/A,False,False,False,39,False,N/A,N/A,932349,False,84,11097528,N/A,Hey Ya! by OutKast,11
+38,N/A,18,N/A,False,Outkast,N/A,2,N/A,N/A,693,N/A,False,False,False,51,False,N/A,N/A,932349,False,84,10793351,N/A,Hey Ya! by OutKast,61
+39,N/A,18,N/A,False,Outkast,N/A,5,N/A,N/A,693,N/A,False,False,False,76,False,N/A,N/A,932349,False,84,10437992,N/A,Hey Ya! by OutKast,48
+40,N/A,23,N/A,False,Nas,N/A,1,N/A,N/A,38,N/A,False,False,False,100,False,N/A,N/A,2423040,False,1331,6361522,N/A,Nasty Freestyle by T-Wayne,44
+41,N/A,23,N/A,False,Nas,N/A,1,N/A,N/A,38,N/A,False,False,False,52,False,N/A,N/A,2423040,False,1331,6335839,N/A,Nasty Freestyle by T-Wayne,9
+42,N/A,23,N/A,False,Nas,N/A,0,N/A,N/A,38,N/A,False,False,False,96,False,N/A,N/A,2423040,False,1331,6319454,N/A,Nasty Freestyle by T-Wayne,12
+43,N/A,23,N/A,False,Nas,N/A,0,N/A,N/A,38,N/A,False,False,False,223,False,N/A,N/A,2423040,False,1331,6310542,N/A,Nasty Freestyle by T-Wayne,8
+44,N/A,23,N/A,False,Nas,N/A,1,N/A,N/A,38,N/A,False,False,False,113,False,N/A,N/A,2423040,False,1331,6310431,N/A,Nasty Freestyle by T-Wayne,8
+45,N/A,23,N/A,False,Nas,N/A,0,N/A,N/A,38,N/A,False,False,False,62,False,N/A,N/A,2423040,False,1331,6310345,N/A,Nasty Freestyle by T-Wayne,4
+46,N/A,23,N/A,False,Nas,N/A,2,N/A,N/A,38,N/A,False,False,False,107,False,N/A,N/A,2423040,False,1331,6273625,N/A,Nasty Freestyle by T-Wayne,17
+47,N/A,23,N/A,False,Nas,N/A,1,N/A,N/A,38,N/A,False,False,False,61,False,N/A,N/A,2423040,False,1331,6273617,N/A,Nasty Freestyle by T-Wayne,10
+48,N/A,23,N/A,False,Nas,N/A,0,N/A,N/A,38,N/A,False,False,False,55,False,N/A,N/A,2423040,False,1331,6273607,N/A,Nasty Freestyle by T-Wayne,7
+49,N/A,23,N/A,False,Nas,N/A,0,N/A,N/A,38,N/A,False,False,False,20,False,N/A,N/A,2423040,False,1331,6273525,N/A,Nasty Freestyle by T-Wayne,20
+50,N/A,26,N/A,False,DMX,N/A,2,N/A,N/A,598,N/A,False,False,False,10,False,N/A,N/A,1657428,False,82,9107023,N/A,U With Me? by Drake,61
+51,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,143,False,N/A,N/A,1657428,False,82,9072951,N/A,U With Me? by Drake,59
+52,N/A,26,N/A,False,DMX,N/A,4,N/A,N/A,598,N/A,False,False,False,148,False,N/A,N/A,1657428,False,82,9070860,N/A,U With Me? by Drake,255
+53,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,222,False,N/A,N/A,1657428,False,82,9070842,N/A,U With Me? by Drake,70
+54,N/A,26,N/A,False,DMX,N/A,1,N/A,N/A,598,N/A,False,False,False,167,False,N/A,N/A,1657428,False,82,9070839,N/A,U With Me? by Drake,39
+55,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,42,False,N/A,N/A,1657428,False,82,9070821,N/A,U With Me? by Drake,68
+56,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,61,False,N/A,N/A,1657428,False,82,9070748,N/A,U With Me? by Drake,52
+57,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,126,False,N/A,N/A,1657428,False,82,9070724,N/A,U With Me? by Drake,49
+58,N/A,26,N/A,False,DMX,N/A,4,N/A,N/A,598,N/A,False,False,False,129,False,N/A,N/A,1657428,False,82,9070397,N/A,U With Me? by Drake,57
+59,N/A,26,N/A,False,DMX,N/A,0,N/A,N/A,598,N/A,False,False,False,107,False,N/A,N/A,1657428,False,82,9070338,N/A,U With Me? by Drake,49
+60,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,15,True,N/A,N/A,1104947,False,275,7633780,N/A,100 by The Game (Ft. Drake),23
+61,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,63,True,N/A,N/A,1104947,False,275,7175990,N/A,100 by The Game (Ft. Drake),7
+62,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,43,True,N/A,N/A,1104947,False,275,7175286,N/A,100 by The Game (Ft. Drake),20
+63,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,81,True,N/A,N/A,1104947,False,275,7172652,N/A,100 by The Game (Ft. Drake),4
+64,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,141,True,N/A,N/A,1104947,False,275,7169648,N/A,100 by The Game (Ft. Drake),62
+65,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,77,True,N/A,N/A,1104947,False,275,7169573,N/A,100 by The Game (Ft. Drake),13
+66,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,90,True,N/A,N/A,1104947,False,275,7169353,N/A,100 by The Game (Ft. Drake),29
+67,N/A,43,N/A,False,The Game,N/A,2,N/A,N/A,2503,1124,False,False,True,103,True,N/A,N/A,1104947,False,275,7169208,N/A,100 by The Game (Ft. Drake),10
+68,N/A,43,N/A,False,The Game,N/A,0,N/A,N/A,2503,1124,False,False,True,50,True,N/A,N/A,1104947,False,275,7169112,N/A,100 by The Game (Ft. Drake),17
+69,N/A,43,N/A,False,The Game,N/A,1,N/A,N/A,2503,1124,False,False,True,62,True,N/A,N/A,1104947,False,275,7168367,N/A,100 by The Game (Ft. Drake),50
+70,N/A,24,N/A,True,T.I.,N/A,39,N/A,N/A,10964,N/A,False,False,False,53,False,N/A,N/A,7397152,True,578,8715004,N/A,Work by Rihanna (Ft. Drake),268
+71,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,125,False,N/A,N/A,7397152,False,578,8635541,N/A,Work by Rihanna (Ft. Drake),51
+72,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,30,False,N/A,N/A,7397152,False,578,8591548,N/A,Work by Rihanna (Ft. Drake),43
+73,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,35,False,N/A,N/A,7397152,False,578,8591541,N/A,Work by Rihanna (Ft. Drake),46
+74,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,21,False,N/A,N/A,7397152,False,578,8589817,N/A,Work by Rihanna (Ft. Drake),67
+75,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,162,False,N/A,N/A,7397152,False,578,8588537,N/A,Work by Rihanna (Ft. Drake),64
+76,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,44,False,N/A,N/A,7397152,False,578,8588148,N/A,Work by Rihanna (Ft. Drake),24
+77,N/A,24,N/A,False,T.I.,N/A,3,N/A,N/A,10964,N/A,False,False,False,69,False,N/A,N/A,7397152,False,578,8586642,N/A,Work by Rihanna (Ft. Drake),96
+78,N/A,24,N/A,False,T.I.,N/A,0,N/A,N/A,10964,N/A,False,False,False,126,False,N/A,N/A,7397152,False,578,8586285,N/A,Work by Rihanna (Ft. Drake),135
+79,N/A,24,N/A,False,T.I.,N/A,2,N/A,N/A,10964,N/A,False,False,False,72,False,N/A,N/A,7397152,False,578,8586154,N/A,Work by Rihanna (Ft. Drake),57
+80,N/A,69,N/A,False,Kanye West,N/A,0,N/A,N/A,8610,N/A,False,False,False,41,False,N/A,N/A,6159822,False,319,13117484,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",3
+81,N/A,69,N/A,True,Kanye West,N/A,1,N/A,N/A,8610,N/A,False,False,False,69,False,N/A,N/A,6159822,True,319,8506695,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",38
+82,N/A,69,N/A,True,Kanye West,N/A,2,N/A,N/A,8610,N/A,False,False,False,56,False,N/A,N/A,6159822,True,319,8506692,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",59
+83,N/A,69,N/A,True,Kanye West,N/A,22,N/A,N/A,8610,N/A,False,False,False,48,False,N/A,N/A,6159822,True,319,2107543,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",571
+84,N/A,69,N/A,False,Kanye West,N/A,0,N/A,N/A,8610,N/A,False,False,False,42,False,N/A,N/A,6159822,False,319,1633361,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",6
+85,N/A,69,N/A,True,Kanye West,N/A,6,N/A,N/A,8610,N/A,False,False,False,6,False,N/A,N/A,6159822,True,319,1461783,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",276
+86,N/A,69,N/A,True,Kanye West,N/A,4,N/A,N/A,8610,N/A,False,False,False,76,False,N/A,N/A,6159822,True,319,1458795,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",238
+87,N/A,69,N/A,False,Kanye West,N/A,0,N/A,N/A,8610,N/A,False,False,False,64,False,N/A,N/A,6159822,False,319,1004631,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",17
+88,N/A,69,N/A,False,Kanye West,N/A,0,N/A,N/A,8610,N/A,False,False,False,33,False,N/A,N/A,6159822,False,319,992477,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",14
+89,N/A,69,N/A,False,Kanye West,N/A,0,N/A,N/A,8610,N/A,False,False,False,46,False,N/A,N/A,6159822,False,319,992474,N/A,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",15
+90,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,58,True,N/A,N/A,9407330,False,949,11776682,N/A,HUMBLE. by Kendrick Lamar,107
+91,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,129,True,N/A,N/A,9407330,False,949,11593217,N/A,HUMBLE. by Kendrick Lamar,560
+92,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,62,True,N/A,N/A,9407330,False,949,11593050,N/A,HUMBLE. by Kendrick Lamar,724
+93,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,122,True,N/A,N/A,9407330,False,949,11592958,N/A,HUMBLE. by Kendrick Lamar,380
+94,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,53,True,N/A,N/A,9407330,False,949,11592897,N/A,HUMBLE. by Kendrick Lamar,199
+95,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,46,True,N/A,N/A,9407330,False,949,11592781,N/A,HUMBLE. by Kendrick Lamar,196
+96,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,49,True,N/A,N/A,9407330,False,949,11592775,N/A,HUMBLE. by Kendrick Lamar,202
+97,N/A,19,N/A,False,Kendrick Lamar,N/A,1,N/A,N/A,21495,34478,False,False,True,70,True,N/A,N/A,9407330,False,949,11592667,N/A,HUMBLE. by Kendrick Lamar,800
+98,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,668,True,N/A,N/A,9407330,False,949,11592646,N/A,HUMBLE. by Kendrick Lamar,876
+99,N/A,19,N/A,False,Kendrick Lamar,N/A,0,N/A,N/A,21495,34478,False,False,True,52,True,N/A,N/A,9407330,False,949,11592609,N/A,HUMBLE. by Kendrick Lamar,202

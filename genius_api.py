@@ -4,6 +4,7 @@ import requests
 import urllib2
 import json
 import pandas
+import unicodedata
 
 AUTH_TOKEN = "4OJhKq4UxyXPDNw9BM9BxvLwHtdGxcmwTtPzv_toigTps1vaVvbYow8cg-v0A5z4"
 _URL_API = "https://api.genius.com/"
@@ -115,7 +116,7 @@ def get_data(key, obj):
     # if type(data) is str:
     #     # return data.replace(u'\xa0', u' ')
     #     return data.encode('utf-8').strip()
-    
+
     return data
 
 def add_data(header, info):
@@ -147,11 +148,13 @@ if __name__ == '__main__':
 
         print artist
 
-        art_songs = get_artist_songs(art_id, 1)
+        art_songs = get_artist_songs(art_id, 10)
+
+
 
         for song in art_songs:
             song_id = get_data('id', song)
-            song_title = get_data('full_title', song)
+            song_title = unicodedata.normalize('NFKD', get_data('full_title', song)).encode('ascii','ignore')
             annotation_count = get_data('annotation_count', song)
             release_date = get_data('release_date', song)
             featured_video = get_data('featured_video', song)
