@@ -1,0 +1,803 @@
+,Unnamed: 0,Accepted_Annotations,Annotation_Count,Annotation_Is_Verified,Artist,Classification,Comment_Count,Featured_Video,Followers,Genius_IQ,Hot,Is_Description,Is_Verified,Length_Referent_Text,Meme_Verified,Number_Contributors,Number_Verified_Annotations,Page_Views,Pinned,Pyong_Count,Referent_ID,Release_Date,Song_Title,Total_Votes
+321,321,12,13,False,Eminem,accepted,2,False,17568,144243,False,False,True,169,True,229,0,2590584,False,402,13395998,156,River by Eminem (Ft. Ed Sheeran),39
+1483,1483,21,33,False,DMX,unreviewed,0,False,598,?,False,False,False,30,False,41,0,34642,False,7,12182687,7369,"Money, Power & Respect by The LOX (Ft. DMX & Lil' Kim)",1
+1009,1009,19,20,False,Outkast,accepted,0,False,693,?,False,False,False,122,False,50,0,93670,False,33,2756815,7173,"Return of the ""G"" by OutKast",6
+849,849,27,32,False,Ice Cube,accepted,0,True,419,?,False,False,False,104,False,24,0,29132,False,2,8381499,10218,"We're All in the Same Gang by The West Coast Rap All Stars (Ft. Above the Law, Body And Soul, Def Jef, Digital Underground, Eazy-E, Ice-T, J.J. Fad, King T, MC Hammer, Michel'le, N.W.A, Oaktown's 3.5.7, Tone Loc & Young MC)",0
+780,780,18,32,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,40,False,37,0,36710,False,2,10341406,9854,Niggaz 4 Life by N.W.A,1
+2234,2234,45,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,51,False,191,0,2798227,False,1397,8012937,1207,Blessings by Big Sean (Ft. Drake & Kanye West),8
+563,563,31,34,True,Eminem,verified,18,True,17568,144243,False,False,True,21,True,212,2,848363,True,144,4109290,7055,My Name Is by Eminem,631
+1886,1886,9,10,False,T.I.,accepted,0,True,10964,?,False,False,False,117,False,252,0,6148182,False,583,7466202,1030,Hotline Bling by Drake,69
+2480,2480,46,49,False,Kendrick Lamar,verified,0,True,21495,34478,False,False,True,31,True,375,2,5236229,False,872,909561,2119,Swimming Pools (Drank) by Kendrick Lamar,8
+2057,2057,25,27,False,T.I.,accepted,0,True,10964,?,False,False,False,66,False,153,0,2542718,False,168,13296067,2217,HYFR by Drake (Ft. Lil Wayne),1
+292,292,39,43,True,Eminem,verified,43,True,17568,144243,False,False,True,65,True,455,3,4139198,True,785,9176836,1664,The Monster by Eminem (Ft. Rihanna),604
+2143,2143,62,69,False,Kanye West,accepted,0,True,8610,?,False,False,False,41,False,372,6,6159849,False,319,13117484,2238,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",3
+1402,1402,24,28,False,DMX,unreviewed,0,False,598,?,False,False,False,38,False,32,0,50538,False,57,11497967,7306,Let Me Fly by DMX,0
+770,770,25,36,False,Ice Cube,accepted,0,False,419,?,False,False,False,55,False,25,0,38090,False,2,1514448,10877,Dopeman (Remix) by N.W.A,3
+2580,2580,12,16,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,176,True,235,3,3212355,False,190,11669992,401,LOVE. by Kendrick Lamar (Ft. Zacari),281
+797,797,11,25,False,Ice Cube,accepted,0,False,419,?,False,False,False,44,False,31,0,34645,False,3,10130335,11011,Express Yourself [Extended Mix] by N.W.A,2
+595,595,42,43,False,Ice Cube,accepted,0,True,419,?,False,False,False,40,False,188,0,1173187,False,161,8263275,10906,Straight Outta Compton by N.W.A,9
+498,498,52,54,False,Eminem,accepted,1,False,17568,144243,False,False,True,57,True,297,0,1024521,False,303,2396697,1657,Legacy by Eminem,25
+214,214,30,35,False,2Pac,unreviewed,0,False,2660,?,False,False,False,32,False,152,0,245908,False,29,14462411,7906,Against All Odds by 2Pac,0
+842,842,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,52,False,30,0,29649,False,3,2553111,10877,Compton's N the House (Remix) by N.W.A,1
+2501,2501,47,53,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,47,True,363,5,4222368,False,861,9116232,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),26
+2119,2119,21,22,False,T.I.,accepted,0,True,10964,?,False,False,False,31,False,218,0,2302935,False,163,10909620,541,Reminder by The Weeknd,119
+1741,1741,33,34,False,The Game,accepted,0,True,2503,1124,False,False,True,73,True,106,0,222423,False,22,1401731,4870,Dreams by The Game,7
+548,548,46,49,False,Eminem,accepted,1,True,17568,144243,False,False,True,47,True,207,0,896107,False,239,3431871,4548,When I'm Gone by Eminem,14
+2077,2077,22,35,True,T.I.,accepted,4,True,10964,?,False,False,False,89,False,149,12,2449361,False,452,7657363,1192,Energy by Drake,13
+2723,2723,59,62,False,Kendrick Lamar,unreviewed,1,True,21495,34478,False,False,True,56,True,453,0,1377723,False,100,14351371,401,FEAR. by Kendrick Lamar,0
+260,260,9,12,False,2Pac,accepted,1,False,2660,?,False,False,False,29,False,58,0,240321,False,24,2529280,8132,"All Bout U by 2Pac (Ft. Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",11
+1874,1874,19,20,False,T.I.,accepted,0,True,10964,?,False,False,False,35,False,433,0,6490108,False,740,13797336,121,God's Plan by Drake,29
+675,675,36,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,46,False,42,0,65899,False,6,13564853,10141,100 Miles and Runnin' by N.W.A,0
+2468,2468,39,42,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,51,True,393,2,7086094,False,669,1215367,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",74
+1630,1630,34,36,False,The Game,accepted,0,True,2503,1124,False,False,True,40,True,100,0,541196,False,28,1113837,2086,"Celebration by The Game (Ft. Chris Brown, Lil Wayne, Tyga & Wiz Khalifa)",9
+443,443,17,20,False,Eminem,accepted,0,True,17568,144243,False,False,True,184,True,152,1,1204637,False,210,365606,5733,8 Mile: B-Rabbit vs Papa Doc by Eminem,87
+2439,2439,12,13,False,Kanye West,accepted,0,False,8610,?,False,False,False,66,False,104,0,1361667,False,66,9088912,751,Feel No Ways by Drake,10
+547,547,46,49,False,Eminem,accepted,1,True,17568,144243,False,False,True,9,True,207,0,896107,False,239,4023223,4548,When I'm Gone by Eminem,17
+689,689,20,29,False,Ice Cube,accepted,0,False,419,?,False,False,False,17,False,66,0,55588,False,3,5113456,9854,Alwayz Into Somethin by N.W.A (Ft. Admiral Dancehall),0
+2724,2724,59,62,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,57,True,453,0,1377723,False,100,14007339,401,FEAR. by Kendrick Lamar,7
+2576,2576,12,16,True,Kendrick Lamar,verified,22,True,21495,34478,False,False,True,64,True,235,3,3212355,True,190,11671093,401,LOVE. by Kendrick Lamar (Ft. Zacari),547
+288,288,118,122,False,Eminem,accepted,0,True,17568,144243,False,False,True,18,True,1380,3,12190302,False,5604,2716951,1678,Rap God by Eminem,238
+1602,1602,30,31,False,The Game,accepted,0,False,2503,1124,False,False,True,37,True,125,0,579775,False,56,7946156,947,El Chapo by The Game (Ft. Skrillex),25
+1311,1311,11,16,False,DMX,unreviewed,1,False,598,?,False,False,False,13,False,86,0,218921,False,52,76060,?,Go to Sleep by Eminem (Ft. DMX & Obie Trice),2
+1112,1112,18,27,False,Outkast,unreviewed,0,False,693,?,False,False,False,44,False,50,0,64483,False,12,12787688,6018,The Whole World by OutKast (Ft. Killer Mike),1
+2142,2142,18,24,False,T.I.,accepted,0,True,10964,?,False,False,False,40,False,216,0,2254705,False,226,304571,2518,Marvin's Room by Drake,65
+347,347,106,107,False,Eminem,accepted,0,False,17568,144243,False,False,True,49,True,536,0,1719362,False,521,2375815,1657,Bad Guy by Eminem,31
+2676,2676,103,107,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,51,True,399,3,1792776,False,310,2475710,1951,"1Train by A$AP Rocky (Ft. Action Bronson, Big K.R.I.T., Danny Brown, Joey Bada$$, Kendrick Lamar & Yelawolf)",11
+1688,1688,43,48,False,The Game,accepted,0,False,2503,1124,False,False,True,10,True,90,0,284677,False,40,1879077,1986,Pray by The Game (Ft. J. Cole & JMSN),10
+612,612,33,38,False,Ice Cube,accepted,0,False,419,?,False,False,False,102,False,106,0,380781,False,29,7602031,10849,Gangsta Gangsta by N.W.A,18
+907,907,56,59,False,Outkast,accepted,2,True,693,?,False,False,False,29,False,134,0,608156,False,83,3942953,4001,International Player's Anthem (I Choose You) by UGK (Ft. OutKast),16
+2685,2685,53,54,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,109,True,315,0,1536371,False,192,8541279,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),41
+669,669,9,23,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,92,False,47,0,68548,False,16,13545144,9854,Appetite for Destruction by N.W.A,0
+2103,2103,18,19,False,T.I.,accepted,0,False,10964,?,False,False,False,138,False,152,0,2401685,False,59,9072368,751,Child's Play by Drake,23
+400,400,40,42,False,Eminem,accepted,1,True,17568,144243,False,False,True,250,True,243,0,1365257,False,610,2375977,1565,Headlights by Eminem (Ft. Nate Ruess),61
+247,247,34,35,False,2Pac,accepted,0,False,2660,?,False,False,False,21,False,80,0,243325,False,28,10399160,8020,How Do U Want It by 2Pac (Ft. K-Ci & JoJo),10
+2289,2289,28,30,False,Kanye West,accepted,0,True,8610,?,False,False,False,72,False,277,1,2219708,False,303,1785832,1797,Black Skinhead by Kanye West,12
+1215,1215,5,20,False,Nas,unreviewed,0,True,38,?,False,False,False,56,False,6,0,?,False,9,7839604,1115,Molly (Freestyle) by T-Wayne,0
+2197,2197,35,39,False,Kanye West,accepted,0,False,8610,?,False,False,False,209,False,365,3,3306405,False,290,8679829,826,"Ultralight Beam by Kanye West (Ft. Chance The Rapper, Kelly Price, Kirk Franklin & The-Dream)",229
+2497,2497,36,37,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,36,True,508,0,4526124,False,507,11674747,401,DNA. by Kendrick Lamar,56
+863,863,14,23,False,Ice Cube,unreviewed,1,False,419,?,False,False,False,34,False,34,0,27247,False,6,1901594,9854,Real Niggaz Don't Die by N.W.A,-1
+13,13,55,56,False,2Pac,accepted,4,False,2660,?,False,False,False,256,False,370,0,1318014,False,525,5050753,1162,Mortal Man by Kendrick Lamar,40
+2271,2271,25,27,False,Kanye West,verified,1,False,8610,?,False,False,False,85,False,237,1,2391365,False,254,2499101,1797,Blood On the Leaves by Kanye West,67
+1860,1860,22,24,False,T.I.,accepted,0,True,10964,?,False,False,False,126,False,258,1,7397166,False,578,8586285,844,Work by Rihanna (Ft. Drake),135
+2145,2145,62,69,True,Kanye West,verified,2,True,8610,?,False,False,False,56,False,372,6,6159849,True,319,8506692,2238,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",59
+2240,2240,45,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,51,False,191,0,2798227,False,1397,4815296,1207,Blessings by Big Sean (Ft. Drake & Kanye West),15
+590,590,39,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,116,False,193,0,1708934,False,146,14062341,10876,Fuck tha Police by N.W.A,0
+2304,2304,33,41,True,Kanye West,verified,3,True,8610,?,False,False,False,128,False,207,7,1930333,True,90,11310677,566,Bounce Back by Big Sean,62
+144,144,26,28,False,2Pac,accepted,3,False,2660,?,False,False,False,25,False,128,0,323029,False,54,11183489,8132,Only God Can Judge Me by 2Pac (Ft. Rappin' 4-Tay),13
+2090,2090,15,16,False,T.I.,accepted,0,False,10964,?,False,False,False,81,False,168,0,2441784,False,145,9074336,751,Too Good by Drake (Ft. Rihanna),41
+2536,2536,29,30,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,199,True,356,0,4016170,False,162,11709545,401,XXX. by Kendrick Lamar (Ft. U2),135
+2462,2462,39,42,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,43,True,393,2,7086094,False,669,1618133,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",21
+1090,1090,30,33,False,Outkast,accepted,0,True,693,?,False,False,False,56,False,51,0,70429,False,18,2718103,8948,Player's Ball by OutKast,5
+2702,2702,38,39,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,214,True,262,0,1497028,False,996,6607883,1175,"All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",43
+396,396,40,42,False,Eminem,accepted,0,True,17568,144243,False,False,True,19,True,243,0,1365257,False,610,2405104,1565,Headlights by Eminem (Ft. Nate Ruess),45
+1647,1647,34,36,False,The Game,accepted,0,False,2503,1124,False,False,True,108,True,176,0,336606,False,54,7604493,1017,"Deep Water by Dr. Dre (Ft. Anderson .Paak, Justus & Kendrick Lamar)",7
+715,715,30,38,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,17,False,51,0,42338,False,8,12558563,10601,8 Ball by N.W.A,0
+2378,2378,38,39,False,Kanye West,accepted,0,False,8610,?,False,False,False,214,False,262,0,1497028,False,996,6607883,1175,"All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",43
+2166,2166,33,36,True,Kanye West,verified,0,True,8610,?,False,False,False,64,False,335,2,5070070,True,372,5054954,2441,Niggas in Paris by JAY-Z & Kanye West,137
+2083,2083,22,35,True,T.I.,accepted,1,True,10964,?,False,False,False,44,False,149,12,2449361,False,452,4966993,1192,Energy by Drake,5
+2476,2476,84,89,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,44,True,552,4,5613108,False,2095,3123925,2036,m.A.A.d city by Kendrick Lamar (Ft. MC Eiht),20
+1394,1394,19,29,False,DMX,unreviewed,0,False,598,?,False,False,False,60,False,34,0,54207,False,7,3043117,2049,D3mons by Machine Gun Kelly (Ft. DMX),1
+2228,2228,65,67,False,Kanye West,accepted,0,False,8610,?,False,False,False,43,False,362,0,2968632,False,314,8142411,2766,"Monster by Kanye West (Ft. Bon Iver, JAY-Z, Nicki Minaj & Rick Ross)",3
+1257,1257,0,9,False,Nas,unreviewed,0,False,38,?,False,False,False,48,False,4,0,?,False,3,6526086,1308,Look At Me by T-Wayne (Ft. Chedda Da Connect & DJ Chose),2
+2255,2255,24,29,False,Kanye West,accepted,3,True,8610,?,False,False,False,77,False,195,4,2724546,False,198,356516,2477,No Church in the Wild by JAY-Z & Kanye West (Ft. Frank Ocean & The-Dream),46
+2312,2312,55,62,True,Kanye West,verified,0,True,8610,?,False,False,False,61,False,226,4,1891346,True,94,8506689,2074,"Don't Like by Kanye West (Ft. Big Sean, Chief Keef, Jadakiss & Pusha T)",21
+341,341,106,107,False,Eminem,accepted,0,False,17568,144243,False,False,True,32,True,536,0,1719362,False,521,3112409,1657,Bad Guy by Eminem,57
+1059,1059,7,8,False,Outkast,accepted,0,True,693,?,False,False,False,37,False,43,0,74911,False,30,164796,3594,Down And Out by Kid Cudi,2
+679,679,36,49,False,Ice Cube,accepted,0,False,419,?,False,False,False,51,False,42,0,65899,False,6,1784307,10141,100 Miles and Runnin' by N.W.A,3
+211,211,10,18,False,2Pac,accepted,1,False,2660,?,False,False,False,27,False,69,0,265651,False,35,8541944,7481,Do For Love by 2Pac (Ft. Eric Williams),2
+507,507,42,43,False,Eminem,accepted,1,False,17568,144243,False,False,True,34,True,208,0,1014403,False,226,1028392,7051,Forgot About Dre by Dr. Dre (Ft. Eminem),14
+790,790,43,47,False,Ice Cube,accepted,0,True,419,?,False,False,False,19,False,54,0,36616,False,?,10479380,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),1
+578,578,6,11,False,Eminem,unreviewed,2,False,17568,144243,False,False,True,77,True,173,0,826526,False,170,13891350,1657,Stronger Than I Was by Eminem,2
+185,185,12,15,False,2Pac,unreviewed,3,False,2660,?,False,False,False,35,False,72,0,290854,False,74,12640358,4863,Ghetto Gospel by 2Pac,0
+506,506,42,43,False,Eminem,accepted,0,False,17568,144243,False,False,True,18,True,208,0,1014403,False,226,1185875,7051,Forgot About Dre by Dr. Dre (Ft. Eminem),98
+2185,2185,40,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,22,False,335,0,3428303,False,174,11165736,2082,Clique by Kanye West (Ft. Big Sean & JAY-Z),4
+899,899,31,32,False,Outkast,accepted,0,False,693,?,False,False,False,52,False,121,0,751230,False,95,2566095,6438,Ms. Jackson by OutKast,41
+752,752,1,12,False,Ice Cube,unreviewed,2,False,419,?,False,False,False,72,False,8,0,41280,False,2,2156762,10877,Straight Outta Compton (Clean) by N.W.A,3
+430,430,40,50,True,Eminem,verified,5,True,17568,144243,False,False,True,40,True,411,7,1221363,True,153,11439876,471,No Favors by Big Sean (Ft. Eminem),76
+1679,1679,110,117,False,The Game,accepted,0,False,2503,1124,False,False,True,58,True,149,0,314608,False,338,3175859,1475,Chiraq To LA by Tyga (Ft. The Game),2
+2002,2002,28,29,False,T.I.,accepted,0,False,10964,?,False,False,False,116,False,220,0,2943027,False,172,7841166,973,Jumpman by Drake & Future (Ft. Drake & Future),257
+2617,2617,38,40,True,Kendrick Lamar,verified,40,False,21495,34478,False,False,True,123,True,546,1,2377865,True,1535,4870397,1196,The Blacker the Berry by Kendrick Lamar,2114
+1864,1864,39,42,False,T.I.,accepted,0,True,10964,?,False,False,False,38,False,393,2,7086094,False,669,7621997,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",27
+755,755,24,33,False,Ice Cube,accepted,0,False,419,?,False,False,False,119,False,22,0,40285,False,2,8592285,9854,She Swallowed It by N.W.A,8
+2477,2477,84,89,False,Kendrick Lamar,accepted,3,False,21495,34478,False,False,True,154,True,552,4,5613108,False,2095,2825722,2036,m.A.A.d city by Kendrick Lamar (Ft. MC Eiht),44
+2674,2674,103,107,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,21,True,399,3,1792776,False,310,2867457,1951,"1Train by A$AP Rocky (Ft. Action Bronson, Big K.R.I.T., Danny Brown, Joey Bada$$, Kendrick Lamar & Yelawolf)",43
+2689,2689,53,54,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,111,True,315,0,1536371,False,192,8539314,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),94
+367,367,55,56,False,Eminem,accepted,2,True,17568,144243,False,False,True,5,True,281,0,1478231,False,259,2184712,5843,Without Me by Eminem,90
+649,649,16,22,False,Ice Cube,unreviewed,1,False,419,?,False,False,False,78,False,40,0,89259,False,12,11535748,10141,Real Niggaz by N.W.A,2
+681,681,36,49,False,Ice Cube,unreviewed,2,False,419,?,False,False,False,145,False,42,0,65899,False,6,920906,10141,100 Miles and Runnin' by N.W.A,-4
+2239,2239,45,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,44,False,191,0,2798227,False,1397,4815368,1207,Blessings by Big Sean (Ft. Drake & Kanye West),11
+549,549,46,49,False,Eminem,accepted,1,True,17568,144243,False,False,True,45,True,207,0,896107,False,239,2754488,4548,When I'm Gone by Eminem,11
+1843,1843,50,52,False,The Game,accepted,1,False,2503,1124,False,False,True,44,True,79,0,138877,False,22,1844710,2595,Red Nation by The Game (Ft. Lil Wayne),3
+62,62,26,29,False,2Pac,accepted,0,False,2660,?,False,False,False,241,False,142,0,600994,False,128,13741796,8132,Ambitionz Az A Ridah by 2Pac,1
+769,769,25,36,False,Ice Cube,accepted,1,False,419,?,False,False,False,47,False,25,0,38090,False,2,1578803,10877,Dopeman (Remix) by N.W.A,6
+190,190,12,15,False,2Pac,accepted,0,False,2660,?,False,False,False,105,False,72,0,290854,False,74,150213,4863,Ghetto Gospel by 2Pac,23
+1169,1169,52,55,False,Outkast,accepted,0,False,693,?,False,False,False,29,False,64,1,54408,False,12,2717633,8735,Southernplayalisticadillacmuzik by OutKast,1
+1391,1391,19,23,False,DMX,accepted,0,False,598,?,False,False,False,21,False,47,0,78612,False,9,6542823,7132,"Money, Cash, Hoes by JAY-Z (Ft. DMX)",0
+1118,1118,18,27,False,Outkast,accepted,0,False,693,?,False,False,False,47,False,50,0,64483,False,12,1647875,6018,The Whole World by OutKast (Ft. Killer Mike),0
+1025,1025,35,36,False,Outkast,accepted,0,False,693,?,False,False,False,132,False,68,0,82508,False,18,2770095,7936,Jazzy Belle by OutKast,1
+280,280,3,4,False,2Pac,accepted,0,False,2660,?,False,False,False,33,False,44,0,234149,False,31,179325,8132,Ratha Be Ya Nigga by 2Pac (Ft. Richie Rich),14
+191,191,12,15,False,2Pac,accepted,0,False,2660,?,False,False,False,136,False,72,0,290854,False,74,150207,4863,Ghetto Gospel by 2Pac,20
+284,284,118,122,True,Eminem,verified,50,True,17568,144243,False,False,True,68,True,1380,3,12190302,True,5604,5140285,1678,Rap God by Eminem,1420
+626,626,64,65,False,Ice Cube,accepted,0,False,419,?,False,False,False,54,False,79,0,210446,False,18,9164915,11238,Dopeman by N.W.A,0
+1033,1033,35,36,False,Outkast,accepted,0,False,693,?,False,False,False,108,False,68,0,82508,False,18,1265683,7936,Jazzy Belle by OutKast,3
+18,18,55,56,False,2Pac,accepted,1,False,2660,?,False,False,False,147,False,370,0,1318014,False,525,5050100,1162,Mortal Man by Kendrick Lamar,37
+1868,1868,39,42,True,T.I.,verified,5,True,10964,?,False,False,False,54,False,393,2,7086094,True,669,1332397,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",330
+1858,1858,22,24,False,T.I.,accepted,0,True,10964,?,False,False,False,44,False,258,1,7397166,False,578,8588148,844,Work by Rihanna (Ft. Drake),24
+365,365,55,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,29,True,281,0,1478231,False,259,2540632,5843,Without Me by Eminem,38
+399,399,40,42,False,Eminem,accepted,0,True,17568,144243,False,False,True,63,True,243,0,1365257,False,610,2376059,1565,Headlights by Eminem (Ft. Nate Ruess),48
+2363,2363,22,23,False,Kanye West,accepted,0,False,8610,?,False,False,False,105,False,127,0,1558247,False,50,8667150,826,Pt. 2 by Kanye West (Ft. Desiigner),11
+1433,1433,6,8,False,DMX,accepted,0,False,598,?,False,False,False,98,False,30,0,41400,False,65,3093074,7306,Intro by DMX,24
+1386,1386,19,23,False,DMX,accepted,0,False,598,?,False,False,False,47,False,47,0,78612,False,9,11730588,7132,"Money, Cash, Hoes by JAY-Z (Ft. DMX)",0
+976,976,26,27,False,Outkast,accepted,0,False,693,?,False,False,False,272,False,84,0,174452,False,23,10321632,7249,Rosa Parks by OutKast,6
+2715,2715,44,45,False,Kendrick Lamar,accepted,3,False,21495,34478,False,False,True,41,True,712,0,1479165,False,270,11570817,423,The Heart Part 4 by Kendrick Lamar,95
+680,680,36,49,False,Ice Cube,accepted,0,False,419,?,False,False,False,25,False,42,0,65899,False,6,1531736,10141,100 Miles and Runnin' by N.W.A,-1
+1494,1494,17,24,False,DMX,unreviewed,0,False,598,?,False,False,False,29,False,31,0,34150,False,6,12866671,7509,"24 Hours to Live by Ma$e (Ft. Black Rob, DMX, The LOX & Puff Daddy)",0
+1684,1684,43,48,False,The Game,unreviewed,1,False,2503,1124,False,False,True,196,True,90,0,284677,False,40,6900004,1986,Pray by The Game (Ft. J. Cole & JMSN),3
+2288,2288,28,30,False,Kanye West,accepted,2,True,8610,?,False,False,False,63,False,277,1,2219708,False,303,1794421,1797,Black Skinhead by Kanye West,71
+805,805,23,26,False,Ice Cube,unreviewed,0,True,419,?,False,False,False,34,False,32,0,33966,False,5,12442948,10841,We Want Eazy by Eazy-E (Ft. Michel'le & N.W.A),2
+1161,1161,52,55,True,Outkast,verified,0,False,693,?,False,False,False,209,False,64,1,54408,True,12,8071597,8735,Southernplayalisticadillacmuzik by OutKast,43
+2500,2500,47,53,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,46,True,363,5,4222368,False,861,13769180,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),5
+684,684,36,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,157,False,42,0,65899,False,6,920882,10141,100 Miles and Runnin' by N.W.A,11
+1002,1002,26,29,False,Outkast,accepted,0,False,693,?,False,False,False,74,False,62,1,155005,False,25,587341,6935,Da Art of Storytellin' (Part 1) by OutKast,16
+1113,1113,18,27,False,Outkast,unreviewed,0,False,693,?,False,False,False,17,False,50,0,64483,False,12,11750924,6018,The Whole World by OutKast (Ft. Killer Mike),2
+42,42,30,32,False,2Pac,accepted,1,True,2660,?,False,False,False,155,False,212,1,994904,False,262,13052390,7159,Changes by 2Pac (Ft. Talent),10
+2419,2419,18,19,False,Kanye West,accepted,0,False,8610,?,False,False,False,20,False,156,0,1385859,False,89,8672945,826,FML by Kanye West (Ft. The Weeknd),73
+1603,1603,30,31,False,The Game,accepted,2,False,2503,1124,False,False,True,53,True,125,0,579775,False,56,7854692,947,El Chapo by The Game (Ft. Skrillex),8
+740,740,20,25,False,Ice Cube,accepted,1,False,419,?,False,False,False,18,False,28,0,41912,False,8,222193,10877,Parental Discretion Iz Advised by N.W.A (Ft. The D.O.C.),5
+2315,2315,55,62,False,Kanye West,accepted,0,True,8610,?,False,False,False,21,False,226,4,1891346,False,94,6889533,2074,"Don't Like by Kanye West (Ft. Big Sean, Chief Keef, Jadakiss & Pusha T)",26
+982,982,26,27,False,Outkast,accepted,0,False,693,?,False,False,False,159,False,84,0,174452,False,23,2050947,7249,Rosa Parks by OutKast,10
+5,5,94,104,False,2Pac,accepted,0,True,2660,?,False,False,False,50,False,294,0,2015929,False,338,11155821,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),6
+586,586,39,49,False,Ice Cube,accepted,0,False,419,?,False,False,False,39,False,193,0,1708934,False,146,14074450,10876,Fuck tha Police by N.W.A,0
+1568,1568,47,49,False,The Game,accepted,0,True,2503,1124,False,False,True,23,True,181,0,884987,False,117,1390907,1986,Ali Bomaye by The Game (Ft. 2 Chainz & Rick Ross),1
+1781,1781,57,58,False,The Game,accepted,0,False,2503,1124,False,False,True,155,True,157,0,183015,False,19,10450581,611,92 Bars by The Game,3
+447,447,73,77,False,Eminem,accepted,0,False,17568,144243,False,False,True,52,True,279,1,1156612,False,233,2407617,1657,Love Game by Eminem (Ft. Kendrick Lamar),8
+707,707,24,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,44,False,42,0,44509,False,5,9080799,10877,If It Ain't Ruff by N.W.A,1
+1724,1724,7,12,True,The Game,verified,2,True,2503,1124,False,False,True,19,True,51,4,227520,True,30,10326839,627,"#WHERESTHELOVE by The Black Eyed Peas (Ft. Andra Day, A$AP Rocky, Cassie, DJ Khaled, French Montana, The Game, Jaden Smith, Jamie Foxx, Jessie J, Justin Timberlake, Mary J. Blige, Nicole Scherzinger, Puff Daddy, Tori Kelly, Ty Dolla $ign, Usher, V Bozeman & The World)",44
+2278,2278,25,27,False,Kanye West,accepted,3,False,8610,?,False,False,False,81,False,237,1,2391365,False,254,1871721,1797,Blood On the Leaves by Kanye West,65
+1416,1416,26,35,False,DMX,unreviewed,0,False,598,?,False,False,False,21,False,32,0,47306,False,23,3131460,2234,I Don't Dance by DMX (Ft. Machine Gun Kelly),0
+931,931,39,40,False,Outkast,accepted,2,False,693,?,False,False,False,68,False,146,0,272088,False,50,1462107,7173,Aquemini by OutKast,5
+2150,2150,62,69,False,Kanye West,accepted,0,True,8610,?,False,False,False,64,False,372,6,6159849,False,319,1004631,2238,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",17
+2739,2739,16,19,False,Kendrick Lamar,unreviewed,1,True,21495,34478,False,False,True,69,True,100,0,1376561,False,138,1327613,1705,"Memories Back Then by T.I. (Ft. B.o.B, Kendrick Lamar & Kris Stephens)",12
+1848,1848,50,52,False,The Game,accepted,0,False,2503,1124,False,False,True,42,True,79,0,138877,False,22,202895,2595,Red Nation by The Game (Ft. Lil Wayne),2
+1446,1446,18,21,False,DMX,accepted,0,False,598,?,False,False,False,62,False,35,0,38870,False,60,2079848,7089,The Omen by DMX (Ft. Marilyn Manson),0
+224,224,29,34,False,2Pac,unreviewed,0,True,2660,?,False,False,False,36,False,100,0,244114,False,29,14323465,7906,To Live & Die in L.A. by 2Pac (Ft. Val Young),0
+731,731,40,52,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,35,False,60,0,42097,False,5,7396288,3586,8 Ball (Remix) by N.W.A,2
+2694,2694,22,25,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,53,True,305,0,1495678,False,169,14042222,129,"King's Dead by Jay Rock, Kendrick Lamar, Future & James Blake",24
+2215,2215,37,38,False,Kanye West,accepted,0,True,8610,?,False,False,False,171,False,200,0,3050327,False,2699,8093456,1346,I Don't Fuck With You by Big Sean (Ft. E-40),4
+327,327,12,13,False,Eminem,accepted,1,False,17568,144243,False,False,True,93,True,229,0,2590584,False,402,13262042,156,River by Eminem (Ft. Ed Sheeran),45
+2600,2600,30,31,False,Kendrick Lamar,accepted,3,True,21495,34478,False,False,True,61,True,359,0,2563987,False,651,5050350,1162,Alright by Kendrick Lamar,70
+1443,1443,18,21,False,DMX,unreviewed,0,False,598,?,False,False,False,30,False,35,0,38870,False,60,7863953,7089,The Omen by DMX (Ft. Marilyn Manson),0
+2213,2213,35,39,False,Kanye West,accepted,0,True,8610,?,False,False,False,64,False,277,3,3184871,False,369,1872465,1797,Bound 2 by Kanye West,113
+1662,1662,42,48,False,The Game,accepted,0,False,2503,1124,False,False,True,32,True,104,0,315757,False,44,2875350,?,White Dress by Kanye West,8
+1388,1388,19,23,False,DMX,accepted,0,False,598,?,False,False,False,180,False,47,0,78612,False,9,7437395,7132,"Money, Cash, Hoes by JAY-Z (Ft. DMX)",6
+2168,2168,33,36,False,Kanye West,verified,0,True,8610,?,False,False,False,64,False,335,2,5070070,False,372,2559476,2441,Niggas in Paris by JAY-Z & Kanye West,32
+2571,2571,12,16,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,30,True,235,3,3212355,False,190,13339196,401,LOVE. by Kendrick Lamar (Ft. Zacari),5
+575,575,6,11,False,Eminem,unreviewed,1,False,17568,144243,False,False,True,101,True,173,0,826526,False,170,14321163,1657,Stronger Than I Was by Eminem,0
+917,917,21,26,False,Outkast,accepted,0,False,693,?,False,False,False,18,False,112,1,594125,False,64,4063102,5353,Roses by OutKast,24
+239,239,38,41,False,2Pac,accepted,0,False,2660,?,False,False,False,55,False,93,0,243794,False,37,1671380,5654,Thugz Mansion by 2Pac (Ft. Anthony Hamilton),14
+216,216,30,35,False,2Pac,unreviewed,0,False,2660,?,False,False,False,74,False,152,0,245908,False,29,13921350,7906,Against All Odds by 2Pac,0
+2270,2270,25,27,True,Kanye West,verified,0,False,8610,?,False,False,False,85,False,237,1,2391365,True,254,2499101,1797,Blood On the Leaves by Kanye West,155
+2073,2073,37,39,False,T.I.,accepted,0,False,10964,?,False,False,False,164,False,138,0,2448942,False,317,2253174,1699,Furthest Thing by Drake,48
+2001,2001,28,29,False,T.I.,accepted,0,False,10964,?,False,False,False,57,False,220,0,2943027,False,172,7841304,973,Jumpman by Drake & Future (Ft. Drake & Future),42
+880,880,21,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,56,False,27,0,24461,False,1,1467409,9854,One Less Bitch by N.W.A,1
+20,20,22,27,False,2Pac,unreviewed,0,True,2660,?,False,False,False,36,False,158,0,1163069,False,159,14038168,8970,Keep Ya Head Up by 2Pac,2
+537,537,42,49,True,Eminem,accepted,2,True,17568,144243,False,False,True,150,True,267,6,961072,False,981,4914586,1364,Guts Over Fear by Eminem (Ft. Sia),6
+571,571,18,22,False,Eminem,accepted,1,True,17568,144243,False,False,True,65,True,172,0,828968,False,227,266855,2528,Space Bound by Eminem,25
+1140,1140,24,27,False,Outkast,accepted,0,False,693,?,False,False,False,21,False,55,0,58072,False,12,2764848,7173,"Liberation by OutKast (Ft. Big Rube, CeeLo Green & Erykah Badu)",10
+1546,1546,15,23,False,DMX,unreviewed,0,False,598,?,False,False,False,71,False,32,0,27804,False,75,9277602,6725,What's My Name by DMX,3
+912,912,56,59,False,Outkast,accepted,0,True,693,?,False,False,False,50,False,134,0,608156,False,83,1279659,4001,International Player's Anthem (I Choose You) by UGK (Ft. OutKast),2
+2095,2095,15,16,False,T.I.,accepted,14,False,10964,?,False,False,False,78,False,168,0,2441784,False,145,9072093,751,Too Good by Drake (Ft. Rihanna),136
+985,985,39,40,False,Outkast,accepted,0,True,693,?,False,False,False,25,False,83,0,173703,False,34,14181568,7985,Elevators (Me & You) by OutKast,0
+613,613,33,38,False,Ice Cube,accepted,0,False,419,?,False,False,False,68,False,106,0,380781,False,29,7478334,10849,Gangsta Gangsta by N.W.A,10
+574,574,18,22,False,Eminem,accepted,0,True,17568,144243,False,False,True,59,True,172,0,828968,False,227,53588,2528,Space Bound by Eminem,28
+8,8,94,104,False,2Pac,accepted,0,True,2660,?,False,False,False,40,False,294,0,2015929,False,338,3999767,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),15
+1384,1384,19,23,False,DMX,unreviewed,0,False,598,?,False,False,False,8,False,47,0,78612,False,9,12886565,7132,"Money, Cash, Hoes by JAY-Z (Ft. DMX)",0
+1301,1301,13,15,False,DMX,accepted,1,False,598,?,False,False,False,98,False,66,0,311514,False,89,92331,5599,X Gon' Give It to Ya by DMX,10
+1909,1909,12,13,False,T.I.,accepted,2,True,10964,?,False,False,False,30,False,168,0,5132018,False,475,2076562,1747,"Hold On, We're Going Home by Drake (Ft. Majid Jordan)",47
+2122,2122,21,22,False,T.I.,accepted,0,True,10964,?,False,False,False,49,False,218,0,2302935,False,163,10906343,541,Reminder by The Weeknd,32
+9,9,94,104,False,2Pac,accepted,2,True,2660,?,False,False,False,38,False,294,0,2015929,False,338,3999766,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),5
+2287,2287,28,30,False,Kanye West,accepted,0,True,8610,?,False,False,False,103,False,277,1,2219708,False,303,1834794,1797,Black Skinhead by Kanye West,10
+449,449,73,77,True,Eminem,accepted,12,False,17568,144243,False,False,True,160,True,279,1,1156612,False,233,2394527,1657,Love Game by Eminem (Ft. Kendrick Lamar),52
+550,550,46,49,False,Eminem,accepted,1,True,17568,144243,False,False,True,79,True,207,0,896107,False,239,2624155,4548,When I'm Gone by Eminem,13
+291,291,39,43,False,Eminem,accepted,0,True,17568,144243,False,False,True,53,True,455,3,4139198,False,785,13074559,1664,The Monster by Eminem (Ft. Rihanna),12
+1213,1213,5,20,False,Nas,unreviewed,0,True,38,?,False,False,False,46,False,6,0,?,False,9,7839655,1115,Molly (Freestyle) by T-Wayne,0
+1255,1255,0,9,False,Nas,unreviewed,0,False,38,?,False,False,False,72,False,4,0,?,False,3,7859369,1308,Look At Me by T-Wayne (Ft. Chedda Da Connect & DJ Chose),0
+1796,1796,44,46,False,The Game,accepted,0,False,2503,1124,False,False,True,47,True,76,0,158330,False,11,1284678,1986,Jesus Piece by The Game (Ft. Common & Kanye West),2
+1584,1584,51,52,False,The Game,accepted,1,True,2503,1124,False,False,True,14,True,151,0,698013,False,73,886633,2466,"Martians vs. Goblins by The Game (Ft. Lil Wayne & Tyler, The Creator)",-7
+1425,1425,44,57,False,DMX,unreviewed,0,True,598,?,False,False,False,36,False,78,0,44223,False,4,14535637,7467,"4, 3, 2, 1 by LL Cool J (Ft. Canibus, DMX, Method Man & Redman)",0
+2108,2108,7,8,False,T.I.,accepted,0,False,10964,?,False,False,False,120,False,220,0,2378626,False,165,11554553,428,Passionfruit by Drake,63
+202,202,32,35,False,2Pac,unreviewed,0,False,2660,?,False,False,False,41,False,85,0,276104,False,35,12137691,7866,Me and My Girlfriend by 2Pac (Ft. Virginya Slim),1
+141,141,27,32,False,2Pac,accepted,0,False,2660,?,False,False,False,51,False,120,0,357887,False,44,11758198,8048,2 of Amerikaz Most Wanted by 2Pac (Ft. Snoop Dogg),4
+1167,1167,52,55,False,Outkast,accepted,0,False,693,?,False,False,False,101,False,64,1,54408,False,12,2832388,8735,Southernplayalisticadillacmuzik by OutKast,1
+603,603,42,43,False,Ice Cube,accepted,1,True,419,?,False,False,False,22,False,188,0,1173187,False,161,7478528,10906,Straight Outta Compton by N.W.A,6
+1375,1375,26,37,False,DMX,accepted,0,True,598,?,False,False,False,80,False,34,0,80238,False,12,6723974,?,"Touch It (Official Remix) by Busta Rhymes (Ft. DMX, Lloyd Banks, Mary J. Blige, Missy Elliott, Papoose & Rah Digga)",0
+929,929,39,40,False,Outkast,accepted,3,False,693,?,False,False,False,61,False,146,0,272088,False,50,2005547,7173,Aquemini by OutKast,39
+35,35,39,47,False,2Pac,unreviewed,0,False,2660,?,False,False,False,14,False,231,1,1028013,False,143,12272581,7768,Hail Mary by 2Pac (Ft. Outlawz & Prince Ital Joe),1
+1444,1444,18,21,False,DMX,accepted,0,False,598,?,False,False,False,19,False,35,0,38870,False,60,2548025,7089,The Omen by DMX (Ft. Marilyn Manson),1
+2265,2265,50,53,False,Kanye West,accepted,0,False,8610,?,False,False,False,98,False,316,2,2524716,False,382,1876019,1797,New Slaves by Kanye West,43
+1655,1655,43,45,False,The Game,accepted,0,False,2503,1124,False,False,True,41,True,114,0,335010,False,38,1519886,3575,My Life by The Game (Ft. Lil Wayne),12
+1888,1888,9,10,False,T.I.,accepted,0,True,10964,?,False,False,False,310,False,252,0,6148182,False,583,7446623,1030,Hotline Bling by Drake,97
+1733,1733,33,34,False,The Game,accepted,0,True,2503,1124,False,False,True,24,True,106,0,222423,False,22,12760233,4870,Dreams by The Game,1
+1280,1280,24,27,False,DMX,accepted,0,True,598,?,False,False,False,28,False,125,0,1136917,False,296,1848876,1664,She Knows by J. Cole (Ft. Amber Coffman),34
+1234,1234,2,17,False,Nas,accepted,0,False,38,?,False,False,False,16,False,6,0,?,False,?,8624753,931,Broke Wrist by Rich The Kid (Ft. Key! & T-Wayne),2
+839,839,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,35,False,30,0,29649,False,3,2832951,10877,Compton's N the House (Remix) by N.W.A,1
+2659,2659,51,52,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,85,True,360,0,2016243,False,1267,5058404,1162,i by Kendrick Lamar,27
+1465,1465,10,16,False,DMX,unreviewed,0,False,598,?,False,False,False,60,False,28,0,36933,False,47,14154821,7089,Bring Your Whole Crew by DMX,0
+1878,1878,19,20,False,T.I.,accepted,0,True,10964,?,False,False,False,37,False,433,0,6490108,False,740,13561819,121,God's Plan by Drake,198
+2260,2260,50,53,False,Kanye West,verified,0,False,8610,?,False,False,False,103,False,316,2,2524716,False,382,4252247,1797,New Slaves by Kanye West,33
+851,851,27,32,False,Ice Cube,accepted,0,True,419,?,False,False,False,58,False,24,0,29132,False,2,7701433,10218,"We're All in the Same Gang by The West Coast Rap All Stars (Ft. Above the Law, Body And Soul, Def Jef, Digital Underground, Eazy-E, Ice-T, J.J. Fad, King T, MC Hammer, Michel'le, N.W.A, Oaktown's 3.5.7, Tone Loc & Young MC)",2
+1065,1065,8,10,False,Outkast,accepted,0,False,693,?,False,False,False,139,False,34,0,74409,False,10,1279954,5353,Prototype by OutKast,7
+1060,1060,7,8,False,Outkast,accepted,1,True,693,?,False,False,False,38,False,43,0,74911,False,30,164775,3594,Down And Out by Kid Cudi,3
+833,833,7,18,False,Ice Cube,accepted,0,False,419,?,False,False,False,43,False,25,0,30890,False,4,1598774,9854,"Findum, Fuckum & Flee by N.W.A",2
+1592,1592,16,17,False,The Game,accepted,0,False,2503,1124,False,False,True,19,True,79,0,590497,False,90,1765779,1905,Switch Lanes by Tyga (Ft. The Game),4
+1364,1364,27,29,False,DMX,accepted,0,False,598,?,False,False,False,42,False,60,0,101327,False,71,3254180,7306,Damien by DMX,3
+408,408,54,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,15,True,295,0,1338433,False,198,552710,3188,"Forever by Drake (Ft. Eminem, Kanye West & Lil Wayne)",63
+530,530,48,50,False,Eminem,accepted,0,True,17568,144243,False,False,True,58,True,235,0,962445,False,310,612932,2943,Not Afraid by Eminem,13
+2301,2301,33,41,True,Kanye West,verified,1,True,8610,?,False,False,False,125,False,207,7,1930333,True,90,11310721,566,Bounce Back by Big Sean,71
+103,103,4,9,False,2Pac,accepted,2,False,2660,?,False,False,False,671,False,21,0,409421,False,30,231998,6389,The Rose That Grew From Concrete by 2Pac (Ft. Nikki Giovanni),18
+579,579,6,11,False,Eminem,accepted,1,False,17568,144243,False,False,True,45,True,173,0,826526,False,170,5110535,1657,Stronger Than I Was by Eminem,19
+983,983,26,27,False,Outkast,accepted,1,False,693,?,False,False,False,49,False,84,0,174452,False,23,240740,7249,Rosa Parks by OutKast,13
+2593,2593,30,31,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,126,True,359,0,2563987,False,651,6352012,1162,Alright by Kendrick Lamar,75
+203,203,32,35,False,2Pac,unreviewed,0,False,2660,?,False,False,False,45,False,85,0,276104,False,35,11862265,7866,Me and My Girlfriend by 2Pac (Ft. Virginya Slim),1
+2058,2058,25,27,False,T.I.,accepted,0,True,10964,?,False,False,False,55,False,153,0,2542718,False,168,13296007,2217,HYFR by Drake (Ft. Lil Wayne),2
+2005,2005,28,29,False,T.I.,accepted,0,False,10964,?,False,False,False,91,False,220,0,2943027,False,172,7836406,973,Jumpman by Drake & Future (Ft. Drake & Future),60
+1212,1212,5,20,False,Nas,unreviewed,1,True,38,?,False,False,False,34,False,6,0,?,False,9,7848352,1115,Molly (Freestyle) by T-Wayne,0
+1273,1273,24,27,False,DMX,accepted,0,True,598,?,False,False,False,76,False,125,0,1136917,False,296,1901345,1664,She Knows by J. Cole (Ft. Amber Coffman),19
+252,252,34,35,False,2Pac,accepted,0,False,2660,?,False,False,False,55,False,80,0,243325,False,28,3344051,8020,How Do U Want It by 2Pac (Ft. K-Ci & JoJo),5
+2222,2222,37,38,False,Kanye West,accepted,0,True,8610,?,False,False,False,19,False,200,0,3050327,False,2699,4094015,1346,I Don't Fuck With You by Big Sean (Ft. E-40),55
+2464,2464,39,42,True,Kendrick Lamar,verified,5,True,21495,34478,False,False,True,54,True,393,2,7086094,True,669,1332397,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",330
+256,256,9,12,False,2Pac,accepted,1,False,2660,?,False,False,False,51,False,58,0,240321,False,24,2991888,8132,"All Bout U by 2Pac (Ft. Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",3
+580,580,6,11,False,Eminem,accepted,3,False,17568,144243,False,False,True,102,True,173,0,826526,False,170,2409353,1657,Stronger Than I Was by Eminem,44
+1291,1291,29,38,False,DMX,accepted,0,False,598,?,False,False,False,40,False,84,0,332843,False,96,7265529,5360,Where The Hood At by DMX,0
+1794,1794,44,46,False,The Game,accepted,1,False,2503,1124,False,False,True,51,True,76,0,158330,False,11,1284700,1986,Jesus Piece by The Game (Ft. Common & Kanye West),3
+1281,1281,24,27,False,DMX,accepted,2,True,598,?,False,False,False,34,False,125,0,1136917,False,296,1848269,1664,She Knows by J. Cole (Ft. Amber Coffman),66
+2579,2579,12,16,True,Kendrick Lamar,verified,1,True,21495,34478,False,False,True,33,True,235,3,3212355,True,190,11671012,401,LOVE. by Kendrick Lamar (Ft. Zacari),212
+2508,2508,47,53,False,Kendrick Lamar,verified,0,False,21495,34478,False,False,True,19,True,363,5,4222368,False,861,1903927,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),57
+427,427,40,50,False,Eminem,accepted,0,True,17568,144243,False,False,True,49,True,411,7,1221363,False,153,11827955,471,No Favors by Big Sean (Ft. Eminem),6
+1975,1975,36,40,False,T.I.,accepted,1,False,10964,?,False,False,False,63,False,177,2,3274833,False,547,2216586,1699,From Time by Drake (Ft. Jhene Aiko),25
+2365,2365,22,23,False,Kanye West,accepted,2,False,8610,?,False,False,False,30,False,127,0,1558247,False,50,8667143,826,Pt. 2 by Kanye West (Ft. Desiigner),18
+1328,1328,6,12,False,DMX,accepted,0,False,598,?,False,False,False,26,False,58,0,200216,False,107,1929753,7320,Ruff Ryders' Anthem by DMX,17
+1070,1070,8,10,False,Outkast,accepted,1,False,693,?,False,False,False,57,False,34,0,74409,False,10,185422,5353,Prototype by OutKast,20
+395,395,40,42,False,Eminem,accepted,0,True,17568,144243,False,False,True,49,True,243,0,1365257,False,610,2445839,1565,Headlights by Eminem (Ft. Nate Ruess),16
+2598,2598,30,31,False,Kendrick Lamar,accepted,18,True,21495,34478,False,False,True,103,True,359,0,2563987,False,651,5052328,1162,Alright by Kendrick Lamar,135
+1421,1421,26,35,False,DMX,accepted,0,False,598,?,False,False,False,82,False,32,0,47306,False,23,1000236,2234,I Don't Dance by DMX (Ft. Machine Gun Kelly),2
+316,316,52,57,False,Eminem,accepted,0,True,17568,144243,False,False,True,9,True,434,4,2640134,False,407,2190061,1727,Berzerk by Eminem,43
+2137,2137,18,24,False,T.I.,unreviewed,0,True,10964,?,False,False,False,269,False,216,0,2254705,False,226,14477446,2518,Marvin's Room by Drake,3
+2414,2414,21,24,False,Kanye West,accepted,0,True,8610,?,False,False,False,47,False,257,2,1441789,False,313,335080,2779,Runaway by Kanye West (Ft. Pusha T),41
+205,205,10,18,False,2Pac,unreviewed,0,False,2660,?,False,False,False,350,False,69,0,265651,False,35,14020871,7481,Do For Love by 2Pac (Ft. Eric Williams),0
+1521,1521,9,16,False,DMX,accepted,0,False,598,?,False,False,False,39,False,28,0,33035,False,77,1366847,7404,Get At Me Dog by DMX (Ft. Sheek Louch),4
+2499,2499,36,37,False,Kendrick Lamar,accepted,2,False,21495,34478,False,False,True,92,True,508,0,4526124,False,507,11672638,401,DNA. by Kendrick Lamar,80
+852,852,27,32,False,Ice Cube,unreviewed,0,True,419,?,False,False,False,27,False,24,0,29132,False,2,7701419,10218,"We're All in the Same Gang by The West Coast Rap All Stars (Ft. Above the Law, Body And Soul, Def Jef, Digital Underground, Eazy-E, Ice-T, J.J. Fad, King T, MC Hammer, Michel'le, N.W.A, Oaktown's 3.5.7, Tone Loc & Young MC)",0
+2750,2750,13,15,False,Kendrick Lamar,accepted,11,True,21495,34478,False,False,True,175,True,159,0,1329333,False,136,13427374,136,All the Stars by Kendrick Lamar & SZA (Ft. Kendrick Lamar & SZA),50
+557,557,31,34,False,Eminem,accepted,0,True,17568,144243,False,False,True,145,True,212,2,848363,False,144,13003727,7055,My Name Is by Eminem,18
+1125,1125,22,24,False,Outkast,accepted,0,False,693,?,False,False,False,45,False,62,0,58154,False,8,2960939,7936,Babylon by OutKast,3
+2390,2390,21,22,False,Kanye West,accepted,5,True,8610,?,False,False,False,175,False,171,0,1491573,False,99,8824474,826,Wolves by Kanye West (Ft. Sia & Vic Mensa),29
+1013,1013,19,20,False,Outkast,accepted,1,False,693,?,False,False,False,52,False,50,0,93670,False,33,1520226,7173,"Return of the ""G"" by OutKast",22
+766,766,25,36,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,9,False,25,0,38090,False,2,13188635,10877,Dopeman (Remix) by N.W.A,2
+936,936,37,40,False,Outkast,accepted,0,False,693,?,False,False,False,55,False,96,1,253453,False,33,3874344,7936,ATLiens by OutKast,3
+713,713,24,26,False,Ice Cube,accepted,1,False,419,?,False,False,False,185,False,42,0,44509,False,5,7700434,10877,If It Ain't Ruff by N.W.A,5
+806,806,23,26,False,Ice Cube,unreviewed,0,True,419,?,False,False,False,87,False,32,0,33966,False,5,12442942,10841,We Want Eazy by Eazy-E (Ft. Michel'le & N.W.A),1
+716,716,30,38,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,44,False,51,0,42338,False,8,9234524,10601,8 Ball by N.W.A,0
+2316,2316,55,62,False,Kanye West,accepted,0,True,8610,?,False,False,False,91,False,226,4,1891346,False,94,2817532,2074,"Don't Like by Kanye West (Ft. Big Sean, Chief Keef, Jadakiss & Pusha T)",9
+67,67,26,29,False,2Pac,accepted,0,False,2660,?,False,False,False,50,False,142,0,600994,False,128,2986381,8132,Ambitionz Az A Ridah by 2Pac,47
+542,542,42,49,False,Eminem,accepted,1,True,17568,144243,False,False,True,47,True,267,6,961072,False,981,3962968,1364,Guts Over Fear by Eminem (Ft. Sia),26
+2518,2518,134,137,True,Kendrick Lamar,verified,18,False,21495,34478,False,False,True,44,True,714,2,4168155,True,573,2107462,1742,Control by Big Sean (Ft. Jay Electronica & Kendrick Lamar),581
+419,419,53,54,False,Eminem,accepted,0,False,17568,144243,False,False,True,22,True,251,0,1310185,False,380,2750480,5843,'Till I Collapse by Eminem (Ft. Nate Dogg),20
+2601,2601,66,67,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,19,True,246,0,2418330,False,820,3032215,1545,Collard Greens by ScHoolboy Q (Ft. Kendrick Lamar),20
+297,297,39,43,False,Eminem,accepted,0,True,17568,144243,False,False,True,66,True,455,3,4139198,False,785,2398131,1664,The Monster by Eminem (Ft. Rihanna),23
+2420,2420,18,19,False,Kanye West,accepted,0,False,8610,?,False,False,False,167,False,156,0,1385859,False,89,8672697,826,FML by Kanye West (Ft. The Weeknd),78
+117,117,19,22,False,2Pac,accepted,0,False,2660,?,False,False,False,53,False,111,0,383454,False,65,2535911,7917,I Ain't Mad At Cha by 2Pac (Ft. Danny Boy Steward),18
+1770,1770,50,57,False,The Game,accepted,0,False,2503,1124,False,False,True,43,True,88,0,188652,False,27,1564163,1986,See No Evil by The Game (Ft. Kendrick Lamar & Tank),0
+1586,1586,51,52,False,The Game,accepted,0,True,2503,1124,False,False,True,19,True,151,0,698013,False,73,528691,2466,"Martians vs. Goblins by The Game (Ft. Lil Wayne & Tyler, The Creator)",9
+338,338,25,26,False,Eminem,accepted,2,True,17568,144243,False,False,True,110,True,377,0,1878910,False,389,13029733,191,Walk on Water by Eminem (Ft. Beyonce),113
+1866,1866,39,42,False,T.I.,accepted,0,True,10964,?,False,False,False,43,False,393,2,7086094,False,669,1618133,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",21
+56,56,20,23,False,2Pac,accepted,3,True,2660,?,False,False,False,95,False,146,0,897768,False,206,3131691,8489,Dear Mama by 2Pac,34
+2635,2635,22,24,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,124,True,366,1,2267806,False,211,11677577,401,ELEMENT. by Kendrick Lamar,72
+1658,1658,43,45,False,The Game,accepted,0,False,2503,1124,False,False,True,18,True,114,0,335010,False,38,1094201,3575,My Life by The Game (Ft. Lil Wayne),7
+2070,2070,37,39,False,T.I.,accepted,1,False,10964,?,False,False,False,24,False,138,0,2448942,False,317,2449902,1699,Furthest Thing by Drake,14
+2560,2560,23,24,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,76,True,382,0,3709414,False,1885,5038397,1162,King Kunta by Kendrick Lamar,84
+2049,2049,20,21,False,T.I.,accepted,0,True,10964,?,False,False,False,24,False,154,0,2714212,False,215,1577530,1948,Love Me by Lil Wayne (Ft. Drake & Future),15
+1064,1064,8,10,False,Outkast,accepted,1,False,693,?,False,False,False,139,False,34,0,74409,False,10,2413017,5353,Prototype by OutKast,12
+2035,2035,45,47,False,T.I.,accepted,0,True,10964,?,False,False,False,72,False,234,1,2749197,False,1861,4259189,1300,"Only by Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)",21
+2109,2109,7,8,False,T.I.,accepted,1,False,10964,?,False,False,False,117,False,220,0,2378626,False,165,11554534,428,Passionfruit by Drake,63
+2382,2382,38,39,False,Kanye West,accepted,0,False,8610,?,False,False,False,55,False,262,0,1497028,False,996,4960009,1175,"All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",18
+500,500,52,54,False,Eminem,accepted,2,False,17568,144243,False,False,True,93,True,297,0,1024521,False,303,2396049,1657,Legacy by Eminem,32
+1304,1304,11,16,False,DMX,unreviewed,1,False,598,?,False,False,False,124,False,86,0,218921,False,52,12816863,?,Go to Sleep by Eminem (Ft. DMX & Obie Trice),2
+2305,2305,33,41,True,Kanye West,verified,1,True,8610,?,False,False,False,79,False,207,7,1930333,True,90,11310669,566,Bounce Back by Big Sean,48
+541,541,42,49,False,Eminem,accepted,0,True,17568,144243,False,False,True,58,True,267,6,961072,False,981,3964165,1364,Guts Over Fear by Eminem (Ft. Sia),16
+2654,2654,51,52,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,70,True,360,0,2016243,False,1267,5063244,1162,i by Kendrick Lamar,35
+2594,2594,30,31,False,Kendrick Lamar,accepted,6,True,21495,34478,False,False,True,92,True,359,0,2563987,False,651,5067967,1162,Alright by Kendrick Lamar,54
+2636,2636,22,24,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,93,True,366,1,2267806,False,211,11675251,401,ELEMENT. by Kendrick Lamar,92
+1543,1543,15,23,False,DMX,unreviewed,0,False,598,?,False,False,False,100,False,32,0,27804,False,75,13191799,6725,What's My Name by DMX,0
+478,478,38,40,False,Eminem,accepted,0,True,17568,144243,False,False,True,67,True,147,0,1054515,False,245,1945617,4773,Mockingbird by Eminem,62
+2701,2701,22,25,False,Kendrick Lamar,accepted,2,True,21495,34478,False,False,True,55,True,305,0,1495678,False,169,13503316,129,"King's Dead by Jay Rock, Kendrick Lamar, Future & James Blake",48
+1237,1237,2,17,False,Nas,unreviewed,0,False,38,?,False,False,False,88,False,6,0,?,False,?,8489370,931,Broke Wrist by Rich The Kid (Ft. Key! & T-Wayne),0
+1186,1186,22,23,False,Nas,accepted,0,True,38,?,False,False,False,62,False,125,0,2423056,False,1331,6310345,1177,Nasty Freestyle by T-Wayne,4
+2040,2040,60,62,False,T.I.,accepted,0,True,10964,?,False,False,False,13,False,199,1,2718643,False,228,3072060,1793,Versace (Remix) by Migos (Ft. Drake),6
+825,825,7,18,False,Ice Cube,unreviewed,1,False,419,?,False,False,False,25,False,25,0,30890,False,4,7831967,9854,"Findum, Fuckum & Flee by N.W.A",-2
+750,750,1,12,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,39,False,8,0,41280,False,2,2156771,10877,Straight Outta Compton (Clean) by N.W.A,1
+831,831,7,18,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,43,False,25,0,30890,False,4,1650867,9854,"Findum, Fuckum & Flee by N.W.A",3
+844,844,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,52,False,30,0,29649,False,3,2553059,10877,Compton's N the House (Remix) by N.W.A,1
+40,40,30,32,False,2Pac,accepted,0,True,2660,?,False,False,False,53,False,212,1,994904,False,262,13052465,7159,Changes by 2Pac (Ft. Talent),2
+2696,2696,22,25,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,48,True,305,0,1495678,False,169,13892991,129,"King's Dead by Jay Rock, Kendrick Lamar, Future & James Blake",39
+2160,2160,32,42,True,Kanye West,verified,1,True,8610,?,False,False,False,27,False,515,9,5296468,True,341,9178358,887,Panda by Desiigner,76
+245,245,34,35,False,2Pac,accepted,0,False,2660,?,False,False,False,38,False,80,0,243325,False,28,10884151,8020,How Do U Want It by 2Pac (Ft. K-Ci & JoJo),8
+286,286,118,122,True,Eminem,verified,86,True,17568,144243,False,False,True,45,True,1380,3,12190302,True,5604,5140277,1678,Rap God by Eminem,3154
+386,386,48,51,False,Eminem,accepted,2,True,17568,144243,False,False,True,38,True,292,2,1384638,False,302,3894359,6578,The Real Slim Shady by Eminem,30
+97,97,4,9,False,2Pac,unreviewed,0,False,2660,?,False,False,False,41,False,21,0,409421,False,30,7609754,6389,The Rose That Grew From Concrete by 2Pac (Ft. Nikki Giovanni),0
+560,560,31,34,False,Eminem,accepted,2,True,17568,144243,False,False,True,112,True,212,2,848363,False,144,12137106,7055,My Name Is by Eminem,9
+588,588,39,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,41,False,193,0,1708934,False,146,14062364,10876,Fuck tha Police by N.W.A,0
+2174,2174,11,12,False,Kanye West,accepted,0,False,8610,?,False,False,False,45,False,216,0,3708670,False,204,8937019,826,Father Stretch My Hands Pt. 1 by Kanye West (Ft. Kid Cudi),47
+225,225,29,34,False,2Pac,unreviewed,0,True,2660,?,False,False,False,288,False,100,0,244114,False,29,12657045,7906,To Live & Die in L.A. by 2Pac (Ft. Val Young),5
+1367,1367,27,29,False,DMX,accepted,0,False,598,?,False,False,False,15,False,60,0,101327,False,71,1383368,7306,Damien by DMX,7
+696,696,55,66,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,78,False,50,0,49068,False,6,13806413,10877,I Ain't tha 1 by N.W.A,0
+1126,1126,22,24,False,Outkast,accepted,3,False,693,?,False,False,False,137,False,62,0,58154,False,8,2955985,7936,Babylon by OutKast,19
+2678,2678,103,107,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,19,True,399,3,1792776,False,310,1503553,1951,"1Train by A$AP Rocky (Ft. Action Bronson, Big K.R.I.T., Danny Brown, Joey Bada$$, Kendrick Lamar & Yelawolf)",4
+342,342,106,107,False,Eminem,accepted,1,False,17568,144243,False,False,True,35,True,536,0,1719362,False,521,3112396,1657,Bad Guy by Eminem,43
+2691,2691,53,54,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,192,True,315,0,1536371,False,192,8539024,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),65
+942,942,37,40,False,Outkast,accepted,0,False,693,?,False,False,False,49,False,96,1,253453,False,33,1486290,7936,ATLiens by OutKast,3
+2028,2028,45,47,False,T.I.,accepted,0,True,10964,?,False,False,False,64,False,234,1,2749197,False,1861,4274420,1300,"Only by Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)",46
+856,856,14,23,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,182,False,34,0,27247,False,6,13787900,9854,Real Niggaz Don't Die by N.W.A,3
+553,553,46,49,False,Eminem,accepted,0,True,17568,144243,False,False,True,24,True,207,0,896107,False,239,2556448,4548,When I'm Gone by Eminem,11
+163,163,17,21,False,2Pac,accepted,0,False,2660,?,False,False,False,34,False,126,2,312702,False,48,3206272,8468,Me Against the World by 2Pac (Ft. Outlawz & Puff Johnson),10
+1252,1252,0,20,False,Nas,unreviewed,0,False,38,?,False,False,False,56,False,5,0,?,False,?,7722194,1160,Want Sum Mo (Freestyle) by T-Wayne,0
+1093,1093,17,18,False,Outkast,accepted,0,False,693,?,False,False,False,45,False,53,0,66937,False,10,613343,7173,Da Art of Storytellin' (Part 2) by OutKast,8
+1016,1016,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,58,False,37,0,86111,False,3,4091423,7173,Slump by OutKast (Ft. Backbone & Cool Breeze),0
+841,841,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,38,False,30,0,29649,False,3,2553122,10877,Compton's N the House (Remix) by N.W.A,1
+354,354,59,65,False,Eminem,accepted,5,True,17568,144243,False,False,True,58,True,375,3,1680661,False,430,13039062,6389,Stan by Eminem (Ft. Dido),11
+2562,2562,34,36,False,Kendrick Lamar,accepted,3,False,21495,34478,False,False,True,15,True,245,1,3253375,False,527,9016684,2043,Backseat Freestyle by Kendrick Lamar,38
+1103,1103,16,19,False,Outkast,accepted,0,False,693,?,False,False,False,36,False,27,0,66018,False,10,2369731,5353,She Lives in My Lap by OutKast (Ft. Rosario Dawson),7
+1038,1038,54,58,False,Outkast,accepted,0,False,693,?,False,False,False,111,False,111,0,77481,False,31,11678506,5353,A Life in the Day of Benjamin Andre (Incomplete) by OutKast,1
+481,481,38,40,False,Eminem,accepted,0,True,17568,144243,False,False,True,111,True,147,0,1054515,False,245,1339057,4773,Mockingbird by Eminem,17
+313,313,52,57,True,Eminem,verified,38,True,17568,144243,False,False,True,39,True,434,4,2640134,True,407,9176909,1727,Berzerk by Eminem,482
+71,71,27,29,False,2Pac,unreviewed,1,False,2660,?,False,False,False,61,False,142,0,589526,False,94,14023877,8179,California Love by 2Pac (Ft. Dr. Dre & Roger Troutman),2
+1853,1853,22,24,False,T.I.,accepted,0,True,10964,?,False,False,False,125,False,258,1,7397166,False,578,8635541,844,Work by Rihanna (Ft. Drake),51
+1424,1424,44,57,False,DMX,unreviewed,0,True,598,?,False,False,False,40,False,78,0,44223,False,4,14535646,7467,"4, 3, 2, 1 by LL Cool J (Ft. Canibus, DMX, Method Man & Redman)",0
+366,366,55,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,35,True,281,0,1478231,False,259,2320924,5843,Without Me by Eminem,74
+2031,2031,45,47,False,T.I.,accepted,0,True,10964,?,False,False,False,14,False,234,1,2749197,False,1861,4269010,1300,"Only by Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)",59
+658,658,21,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,18,False,56,0,87650,False,17,7932958,6845,Chin Check by N.W.A (Ft. Snoop Dogg),3
+1153,1153,33,34,False,Outkast,accepted,0,False,693,?,False,False,False,30,False,66,0,55269,False,10,3359103,7936,Two Dope Boyz (In a Cadillac) by OutKast,1
+1150,1150,41,49,False,Outkast,accepted,2,False,693,?,False,False,False,81,False,63,0,57364,False,6,2751576,7936,13th Floor / Growing Old by OutKast,3
+1502,1502,24,27,False,DMX,unreviewed,0,False,598,?,False,False,False,23,False,21,0,33958,False,50,13226264,7306,X-Is Coming by DMX,0
+1935,1935,47,51,True,T.I.,verified,0,True,10964,?,False,False,False,23,False,346,3,3910160,True,380,2339634,2036,Poetic Justice by Kendrick Lamar (Ft. Drake),228
+513,513,42,43,False,Eminem,accepted,0,False,17568,144243,False,False,True,39,True,208,0,1014403,False,226,569379,7051,Forgot About Dre by Dr. Dre (Ft. Eminem),31
+573,573,18,22,False,Eminem,accepted,1,True,17568,144243,False,False,True,51,True,172,0,828968,False,227,62924,2528,Space Bound by Eminem,70
+2116,2116,21,22,False,T.I.,accepted,0,True,10964,?,False,False,False,35,False,218,0,2302935,False,163,11802986,541,Reminder by The Weeknd,5
+1933,1933,47,51,False,T.I.,accepted,0,True,10964,?,False,False,False,68,False,346,3,3910160,False,380,8680419,2036,Poetic Justice by Kendrick Lamar (Ft. Drake),13
+1694,1694,66,67,False,The Game,accepted,0,False,2503,1124,False,False,True,56,True,117,0,275989,False,163,3336063,1434,Bigger Than Me by The Game,9
+758,758,24,33,False,Ice Cube,unreviewed,1,False,419,?,False,False,False,67,False,22,0,40285,False,2,8205115,9854,She Swallowed It by N.W.A,2
+1788,1788,67,68,False,The Game,accepted,0,True,2503,1124,False,False,True,24,True,208,0,178665,False,32,10472846,607,Pest Control by The Game,8
+794,794,43,47,False,Ice Cube,accepted,0,True,419,?,False,False,False,63,False,54,0,36616,False,?,9254878,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),3
+2483,2483,46,49,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,21,True,375,2,5236229,False,872,2739115,2119,Swimming Pools (Drank) by Kendrick Lamar,47
+167,167,10,16,False,2Pac,unreviewed,0,True,2660,?,False,False,False,53,False,75,0,310739,False,40,11047826,9110,I Get Around by 2Pac (Ft. Digital Underground),2
+823,823,11,14,False,Ice Cube,accepted,0,False,419,?,False,False,False,28,False,31,0,32188,False,?,1656909,9854,Message to B.A. by N.W.A,8
+1055,1055,7,8,False,Outkast,accepted,2,True,693,?,False,False,False,168,False,43,0,74911,False,30,167478,3594,Down And Out by Kid Cudi,13
+374,374,55,57,False,Eminem,accepted,2,True,17568,144243,False,False,True,54,True,290,1,1404525,False,294,2103633,1685,Survival by Eminem (Ft. Liz Rodrigues),18
+489,489,24,25,False,Eminem,accepted,4,True,17568,144243,False,False,True,169,True,278,0,1050140,False,672,5207890,1125,Best Friend by Yelawolf (Ft. Eminem),67
+1768,1768,50,57,False,The Game,accepted,0,False,2503,1124,False,False,True,55,True,88,0,188652,False,27,1776078,1986,See No Evil by The Game (Ft. Kendrick Lamar & Tank),2
+1369,1369,27,29,False,DMX,accepted,0,False,598,?,False,False,False,23,False,60,0,101327,False,71,780891,7306,Damien by DMX,6
+314,314,52,57,True,Eminem,verified,37,True,17568,144243,False,False,True,49,True,434,4,2640134,True,407,9176904,1727,Berzerk by Eminem,590
+2389,2389,21,22,False,Kanye West,accepted,0,True,8610,?,False,False,False,14,False,171,0,1491573,False,99,8824483,826,Wolves by Kanye West (Ft. Sia & Vic Mensa),22
+677,677,36,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,33,False,42,0,65899,False,6,10897337,10141,100 Miles and Runnin' by N.W.A,0
+2472,2472,84,89,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,20,True,552,4,5613108,False,2095,8301963,2036,m.A.A.d city by Kendrick Lamar (Ft. MC Eiht),8
+867,867,5,18,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,11,False,20,0,26872,False,10,10895807,9854,I'd Rather Fuck You by N.W.A (Ft. Jewell),2
+1542,1542,15,23,False,DMX,unreviewed,0,False,598,?,False,False,False,112,False,32,0,27804,False,75,14327900,6725,What's My Name by DMX,0
+1705,1705,19,20,False,The Game,accepted,1,True,2503,1124,False,False,True,45,True,45,0,273854,False,10,9685257,699,All Eyez by The Game (Ft. Jeremih),5
+1172,1172,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,57,False,60,0,53974,False,9,2848594,7210,Skew It On The Bar-B by OutKast (Ft. Raekwon),5
+814,814,23,26,False,Ice Cube,accepted,0,True,419,?,False,False,False,68,False,32,0,33966,False,5,1783274,10841,We Want Eazy by Eazy-E (Ft. Michel'le & N.W.A),6
+2298,2298,22,28,False,Kanye West,accepted,0,True,8610,?,False,False,False,167,False,167,0,2147517,False,91,1329670,2126,Birthday Song by 2 Chainz (Ft. Kanye West),11
+112,112,14,22,False,2Pac,accepted,0,False,2660,?,False,False,False,40,False,90,0,403463,False,54,12128274,8132,All Eyez on Me by 2Pac (Ft. Big Syke),0
+2192,2192,40,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,181,False,335,0,3428303,False,174,1048762,2082,Clique by Kanye West (Ft. Big Sean & JAY-Z),120
+1139,1139,24,27,False,Outkast,accepted,0,False,693,?,False,False,False,24,False,55,0,58072,False,12,3077352,7173,"Liberation by OutKast (Ft. Big Rube, CeeLo Green & Erykah Badu)",1
+269,269,16,22,False,2Pac,unreviewed,0,False,2660,?,False,False,False,37,False,95,1,234474,False,28,14413622,8132,Can't C Me by 2Pac (Ft. George Clinton),0
+1221,1221,1,2,False,Nas,accepted,0,False,38,?,False,False,False,32,False,5,0,?,False,1,13592777,553,It's OK (okok xxxxx) by Trippie Redd (Ft. T-Wayne),4
+2151,2151,62,69,False,Kanye West,accepted,0,True,8610,?,False,False,False,33,False,372,6,6159849,False,319,992477,2238,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",14
+411,411,54,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,17,True,295,0,1338433,False,198,162542,3188,"Forever by Drake (Ft. Eminem, Kanye West & Lil Wayne)",279
+1202,1202,0,5,False,Nas,unreviewed,0,False,38,?,False,False,False,45,False,3,0,6552,False,12,3088373,1746,Turnt Way by T-Wayne,0
+690,690,20,29,False,Ice Cube,accepted,0,False,419,?,False,False,False,17,False,66,0,55588,False,3,2552052,9854,Alwayz Into Somethin by N.W.A (Ft. Admiral Dancehall),6
+1607,1607,30,31,False,The Game,accepted,0,False,2503,1124,False,False,True,86,True,125,0,579775,False,56,7852960,947,El Chapo by The Game (Ft. Skrillex),17
+827,827,7,18,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,45,False,25,0,30890,False,4,5192020,9854,"Findum, Fuckum & Flee by N.W.A",4
+661,661,21,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,43,False,56,0,87650,False,17,7196334,6845,Chin Check by N.W.A (Ft. Snoop Dogg),4
+1891,1891,9,10,False,T.I.,accepted,0,True,10964,?,False,False,False,57,False,252,0,6148182,False,583,7446097,1030,Hotline Bling by Drake,439
+2125,2125,13,14,False,T.I.,accepted,0,False,10964,?,False,False,False,433,False,93,0,2256798,False,1395,6908221,1111,My Way (Remix) by Fetty Wap (Ft. Drake),15
+2605,2605,66,67,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,19,True,246,0,2418330,False,820,2832831,1545,Collard Greens by ScHoolboy Q (Ft. Kendrick Lamar),90
+667,667,9,23,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,57,False,47,0,68548,False,16,13614894,9854,Appetite for Destruction by N.W.A,0
+838,838,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,57,False,30,0,29649,False,3,2847355,10877,Compton's N the House (Remix) by N.W.A,2
+709,709,24,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,90,False,42,0,44509,False,5,8631026,10877,If It Ain't Ruff by N.W.A,3
+2475,2475,84,89,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,26,True,552,4,5613108,False,2095,3132221,2036,m.A.A.d city by Kendrick Lamar (Ft. MC Eiht),15
+1344,1344,20,31,False,DMX,unreviewed,2,False,598,?,False,False,False,104,False,65,0,167114,False,92,13625409,7114,Slippin' by DMX,-1
+343,343,106,107,False,Eminem,accepted,2,False,17568,144243,False,False,True,26,True,536,0,1719362,False,521,2715058,1657,Bad Guy by Eminem,10
+2411,2411,21,24,False,Kanye West,accepted,0,True,8610,?,False,False,False,73,False,257,2,1441789,False,313,2567377,2779,Runaway by Kanye West (Ft. Pusha T),104
+192,192,12,15,False,2Pac,accepted,4,False,2660,?,False,False,False,306,False,72,0,290854,False,74,150197,4863,Ghetto Gospel by 2Pac,54
+1507,1507,24,27,False,DMX,accepted,1,False,598,?,False,False,False,118,False,21,0,33958,False,50,786252,7306,X-Is Coming by DMX,0
+2333,2333,24,25,False,Kanye West,accepted,1,False,8610,?,False,False,False,189,False,175,0,1691176,False,204,8490007,863,Real Friends by Kanye West (Ft. Ty Dolla $ign),55
+1,1,94,104,False,2Pac,unreviewed,0,True,2660,?,False,False,False,43,False,294,0,2015929,False,338,13976984,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),0
+468,468,53,55,False,Eminem,accepted,0,True,17568,144243,False,False,True,125,True,322,0,1121576,False,254,459300,2784,No Love by Eminem (Ft. Lil Wayne),81
+2029,2029,45,47,False,T.I.,accepted,0,True,10964,?,False,False,False,65,False,234,1,2749197,False,1861,4274419,1300,"Only by Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)",17
+1504,1504,24,27,False,DMX,accepted,2,False,598,?,False,False,False,118,False,21,0,33958,False,50,6906176,7306,X-Is Coming by DMX,33
+2746,2746,13,15,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,14,True,159,0,1329333,False,136,13732590,136,All the Stars by Kendrick Lamar & SZA (Ft. Kendrick Lamar & SZA),18
+1121,1121,22,24,False,Outkast,accepted,0,False,693,?,False,False,False,21,False,62,0,58154,False,8,10322103,7936,Babylon by OutKast,8
+2244,2244,24,29,True,Kanye West,verified,1,True,8610,?,False,False,False,45,False,195,4,2724546,True,198,10216655,2477,No Church in the Wild by JAY-Z & Kanye West (Ft. Frank Ocean & The-Dream),26
+2400,2400,25,26,False,Kanye West,accepted,0,False,8610,?,False,False,False,86,False,239,0,1480434,False,207,671747,2914,Power by Kanye West,56
+438,438,17,20,False,Eminem,accepted,0,True,17568,144243,False,False,True,90,True,152,1,1204637,False,210,625041,5733,8 Mile: B-Rabbit vs Papa Doc by Eminem,49
+406,406,54,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,21,True,295,0,1338433,False,198,2003507,3188,"Forever by Drake (Ft. Eminem, Kanye West & Lil Wayne)",76
+1597,1597,16,17,False,The Game,accepted,0,False,2503,1124,False,False,True,44,True,79,0,590497,False,90,1028481,1905,Switch Lanes by Tyga (Ft. The Game),8
+1267,1267,25,26,False,DMX,accepted,0,False,598,?,False,False,False,42,False,273,0,1657441,False,82,9070821,751,U With Me? by Drake,68
+2006,2006,66,69,False,T.I.,accepted,0,False,10964,?,False,False,False,16,False,306,2,2875478,False,342,9030736,1699,Pound Cake / Paris Morton Music 2 by Drake (Ft. JAY-Z),4
+2306,2306,33,41,True,Kanye West,verified,0,True,8610,?,False,False,False,47,False,207,7,1930333,True,90,11310653,566,Bounce Back by Big Sean,74
+1395,1395,19,29,False,DMX,unreviewed,0,False,598,?,False,False,False,80,False,34,0,54207,False,7,3043083,2049,D3mons by Machine Gun Kelly (Ft. DMX),0
+88,88,22,26,False,2Pac,accepted,0,False,2660,?,False,False,False,54,False,41,0,415789,False,59,554996,5701,'03 Bonnie & Clyde by JAY-Z (Ft. Beyonce),17
+938,938,37,40,False,Outkast,accepted,0,False,693,?,False,False,False,67,False,96,1,253453,False,33,2770051,7936,ATLiens by OutKast,5
+1109,1109,16,19,False,Outkast,accepted,1,False,693,?,False,False,False,26,False,27,0,66018,False,10,2369594,5353,She Lives in My Lap by OutKast (Ft. Rosario Dawson),5
+2397,2397,21,22,False,Kanye West,accepted,0,True,8610,?,False,False,False,328,False,171,0,1491573,False,99,8664665,826,Wolves by Kanye West (Ft. Sia & Vic Mensa),94
+1487,1487,21,33,False,DMX,unreviewed,0,False,598,?,False,False,False,118,False,41,0,34642,False,7,11575100,7369,"Money, Power & Respect by The LOX (Ft. DMX & Lil' Kim)",0
+2728,2728,59,62,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,43,True,453,0,1377723,False,100,14007291,401,FEAR. by Kendrick Lamar,23
+925,925,39,40,False,Outkast,accepted,2,False,693,?,False,False,False,17,False,146,0,272088,False,50,10326880,7173,Aquemini by OutKast,13
+853,853,27,32,False,Ice Cube,accepted,0,True,419,?,False,False,False,29,False,24,0,29132,False,2,7147976,10218,"We're All in the Same Gang by The West Coast Rap All Stars (Ft. Above the Law, Body And Soul, Def Jef, Digital Underground, Eazy-E, Ice-T, J.J. Fad, King T, MC Hammer, Michel'le, N.W.A, Oaktown's 3.5.7, Tone Loc & Young MC)",-1
+956,956,30,32,False,Outkast,accepted,1,True,693,?,False,False,False,32,False,70,0,233864,False,72,6912103,6277,"So Fresh, So Clean by OutKast",5
+402,402,40,42,False,Eminem,accepted,1,True,17568,144243,False,False,True,44,True,243,0,1365257,False,610,2374768,1565,Headlights by Eminem (Ft. Nate Ruess),36
+1549,1549,15,23,False,DMX,accepted,1,False,598,?,False,False,False,95,False,32,0,27804,False,75,1698957,6725,What's My Name by DMX,2
+1017,1017,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,81,False,37,0,86111,False,3,4091415,7173,Slump by OutKast (Ft. Backbone & Cool Breeze),3
+996,996,26,29,True,Outkast,verified,0,False,693,?,False,False,False,58,False,62,1,155005,True,25,8071728,6935,Da Art of Storytellin' (Part 1) by OutKast,78
+486,486,24,25,False,Eminem,accepted,4,True,17568,144243,False,False,True,216,True,278,0,1050140,False,672,5208172,1125,Best Friend by Yelawolf (Ft. Eminem),57
+1145,1145,41,49,False,Outkast,accepted,0,False,693,?,False,False,False,136,False,63,0,57364,False,6,5059893,7936,13th Floor / Growing Old by OutKast,5
+420,420,53,54,False,Eminem,accepted,1,False,17568,144243,False,False,True,17,True,251,0,1310185,False,380,1841265,5843,'Till I Collapse by Eminem (Ft. Nate Dogg),66
+1008,1008,19,20,False,Outkast,accepted,0,False,693,?,False,False,False,121,False,50,0,93670,False,33,2756839,7173,"Return of the ""G"" by OutKast",4
+1721,1721,14,16,False,The Game,accepted,1,False,2503,1124,False,False,True,39,True,74,0,265541,False,33,330615,4926,How We Do by The Game (Ft. 50 Cent),12
+1193,1193,2,9,False,Nas,unreviewed,1,False,38,?,False,False,False,30,False,39,0,282527,False,50,5233446,1174,Flicka Da Wrist by Chedda Da Connect (Ft. T-Wayne),5
+4,4,94,104,False,2Pac,accepted,0,True,2660,?,False,False,False,42,False,294,0,2015929,False,338,11155839,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),7
+2091,2091,15,16,False,T.I.,accepted,0,False,10964,?,False,False,False,164,False,168,0,2441784,False,145,9074174,751,Too Good by Drake (Ft. Rihanna),22
+2367,2367,22,23,False,Kanye West,accepted,0,False,8610,?,False,False,False,60,False,127,0,1558247,False,50,8667141,826,Pt. 2 by Kanye West (Ft. Desiigner),18
+1479,1479,8,14,False,DMX,accepted,0,False,598,?,False,False,False,122,False,24,0,36887,False,42,2889347,7089,We Don't Give a Fuck by DMX (Ft. Jadakiss & Styles P),2
+2262,2262,50,53,False,Kanye West,accepted,0,False,8610,?,False,False,False,11,False,316,2,2524716,False,382,1888281,1797,New Slaves by Kanye West,35
+1876,1876,19,20,False,T.I.,accepted,0,True,10964,?,False,False,False,97,False,433,0,6490108,False,740,13565245,121,God's Plan by Drake,835
+687,687,20,29,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,48,False,66,0,55588,False,3,13797271,9854,Alwayz Into Somethin by N.W.A (Ft. Admiral Dancehall),2
+1822,1822,30,31,False,The Game,accepted,0,False,2503,1124,False,False,True,57,True,82,0,140642,False,18,10430566,4646,Crack Music by Kanye West (Ft. The Game),3
+2610,2610,66,67,False,Kendrick Lamar,accepted,1,True,21495,34478,False,False,True,32,True,246,0,2418330,False,820,1861621,1545,Collard Greens by ScHoolboy Q (Ft. Kendrick Lamar),18
+2437,2437,11,12,False,Kanye West,accepted,0,False,8610,?,False,False,False,26,False,119,0,1381659,False,86,8672298,826,Waves by Kanye West (Ft. Chris Brown),38
+618,618,36,39,False,Ice Cube,accepted,1,False,419,?,False,False,False,38,False,83,0,253379,False,45,11673061,10906,Express Yourself by N.W.A,2
+1130,1130,22,24,False,Outkast,accepted,0,False,693,?,False,False,False,168,False,62,0,58154,False,8,990957,7936,Babylon by OutKast,7
+2279,2279,28,30,True,Kanye West,verified,2,True,8610,?,False,False,False,36,False,277,1,2219708,True,303,4829500,1797,Black Skinhead by Kanye West,224
+2709,2709,38,39,False,Kendrick Lamar,accepted,2,False,21495,34478,False,False,True,49,True,262,0,1497028,False,996,4956878,1175,"All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",28
+1187,1187,22,23,False,Nas,accepted,2,True,38,?,False,False,False,107,False,125,0,2423056,False,1331,6273625,1177,Nasty Freestyle by T-Wayne,17
+1941,1941,47,51,False,T.I.,accepted,0,True,10964,?,False,False,False,82,False,346,3,3910160,False,380,1507006,2036,Poetic Justice by Kendrick Lamar (Ft. Drake),18
+2435,2435,11,12,False,Kanye West,accepted,3,False,8610,?,False,False,False,11,False,119,0,1381659,False,86,8672312,826,Waves by Kanye West (Ft. Chris Brown),60
+1983,1983,27,28,False,T.I.,accepted,0,True,10964,?,False,False,False,31,False,196,0,3183017,False,226,1469128,1929,Started from the Bottom by Drake,40
+1220,1220,5,20,False,Nas,unreviewed,0,True,38,?,False,False,False,55,False,6,0,?,False,9,7449988,1115,Molly (Freestyle) by T-Wayne,0
+182,182,22,29,False,2Pac,accepted,1,False,2660,?,False,False,False,9,False,88,0,292144,False,62,7964070,8377,So Many Tears by 2Pac,21
+906,906,56,59,False,Outkast,accepted,0,True,693,?,False,False,False,18,False,134,0,608156,False,83,5209294,4001,International Player's Anthem (I Choose You) by UGK (Ft. OutKast),16
+705,705,24,26,False,Ice Cube,accepted,1,False,419,?,False,False,False,8,False,42,0,44509,False,5,11045228,10877,If It Ain't Ruff by N.W.A,0
+2455,2455,18,19,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,70,True,827,0,9407569,False,949,11592667,416,HUMBLE. by Kendrick Lamar,800
+2202,2202,35,39,False,Kanye West,accepted,4,False,8610,?,False,False,False,62,False,365,3,3306405,False,290,8664206,826,"Ultralight Beam by Kanye West (Ft. Chance The Rapper, Kelly Price, Kirk Franklin & The-Dream)",72
+1329,1329,6,12,False,DMX,accepted,2,False,598,?,False,False,False,169,False,58,0,200216,False,107,1241132,7320,Ruff Ryders' Anthem by DMX,15
+265,265,4,5,False,2Pac,accepted,2,False,2660,?,False,False,False,73,False,28,0,238966,False,40,1707950,6775,The Rose That Grew from Concrete (Autobiographical) by 2Pac (Ft. Nikki Giovanni),23
+2488,2488,46,49,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,39,True,375,2,5236229,False,872,1310238,2119,Swimming Pools (Drank) by Kendrick Lamar,57
+1269,1269,25,26,False,DMX,accepted,0,False,598,?,False,False,False,126,False,273,0,1657441,False,82,9070724,751,U With Me? by Drake,49
+2708,2708,38,39,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,19,True,262,0,1497028,False,996,4957448,1175,"All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",34
+2570,2570,34,36,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,93,True,245,1,3253375,False,527,1138959,2043,Backseat Freestyle by Kendrick Lamar,80
+351,351,59,65,False,Eminem,accepted,0,True,17568,144243,False,False,True,41,True,375,3,1680661,False,430,14252662,6389,Stan by Eminem (Ft. Dido),6
+2729,2729,59,62,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,143,True,453,0,1377723,False,100,13936683,401,FEAR. by Kendrick Lamar,10
+2340,2340,25,26,False,Kanye West,accepted,2,False,8610,?,False,False,False,10,False,273,0,1657441,False,82,9107023,751,U With Me? by Drake,61
+1365,1365,27,29,False,DMX,accepted,0,False,598,?,False,False,False,55,False,60,0,101327,False,71,3254174,7306,Damien by DMX,0
+1836,1836,29,36,False,The Game,accepted,0,False,2503,1124,False,False,True,26,True,43,0,140356,False,6,2293005,2150,I Don't Like (Remix) by The Game (Ft. Chris Brown),2
+2187,2187,40,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,72,False,335,0,3428303,False,174,7254156,2082,Clique by Kanye West (Ft. Big Sean & JAY-Z),19
+2510,2510,47,53,True,Kendrick Lamar,verified,7,False,21495,34478,False,False,True,25,True,363,5,4222368,True,861,1521481,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),167
+173,173,10,16,False,2Pac,accepted,0,True,2660,?,False,False,False,53,False,75,0,310739,False,40,9602,9110,I Get Around by 2Pac (Ft. Digital Underground),30
+293,293,39,43,True,Eminem,verified,78,True,17568,144243,False,False,True,92,True,455,3,4139198,True,785,9176822,1664,The Monster by Eminem (Ft. Rihanna),978
+2144,2144,62,69,True,Kanye West,verified,1,True,8610,?,False,False,False,69,False,372,6,6159849,True,319,8506695,2238,"Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",38
+2321,2321,18,19,False,Kanye West,accepted,0,True,8610,?,False,False,False,85,False,197,0,1720858,False,123,8690206,826,Famous by Kanye West (Ft. Rihanna),46
+228,228,29,34,False,2Pac,accepted,0,True,2660,?,False,False,False,52,False,100,0,244114,False,29,3259506,7906,To Live & Die in L.A. by 2Pac (Ft. Val Young),11
+615,615,36,39,False,Ice Cube,unreviewed,2,False,419,?,False,False,False,58,False,83,0,253379,False,45,13386625,10906,Express Yourself by N.W.A,-4
+2211,2211,35,39,False,Kanye West,accepted,2,True,8610,?,False,False,False,154,False,277,3,3184871,False,369,1873355,1797,Bound 2 by Kanye West,137
+477,477,38,40,False,Eminem,accepted,0,True,17568,144243,False,False,True,183,True,147,0,1054515,False,245,2849691,4773,Mockingbird by Eminem,53
+2686,2686,53,54,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,67,True,315,0,1536371,False,192,8541242,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),18
+91,91,6,7,False,2Pac,accepted,3,False,2660,?,False,False,False,31,False,94,0,413416,False,81,476720,8132,Life Goes On by 2Pac,27
+2219,2219,37,38,False,Kanye West,accepted,1,True,8610,?,False,False,False,56,False,200,0,3050327,False,2699,4187488,1346,I Don't Fuck With You by Big Sean (Ft. E-40),1
+1783,1783,67,68,False,The Game,accepted,0,True,2503,1124,False,False,True,15,True,208,0,178665,False,32,10479401,607,Pest Control by The Game,2
+786,786,43,47,False,Ice Cube,unreviewed,1,True,419,?,False,False,False,6,False,54,0,36616,False,?,13363900,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),1
+1342,1342,20,31,False,DMX,unreviewed,0,False,598,?,False,False,False,59,False,65,0,167114,False,92,492041,7114,Slippin' by DMX,0
+2544,2544,47,51,True,Kendrick Lamar,verified,0,True,21495,34478,False,False,True,23,True,346,3,3910160,True,380,2339634,2036,Poetic Justice by Kendrick Lamar (Ft. Drake),228
+83,83,22,26,False,2Pac,accepted,0,False,2660,?,False,False,False,144,False,41,0,415789,False,59,5403215,5701,'03 Bonnie & Clyde by JAY-Z (Ft. Beyonce),3
+2247,2247,24,29,True,Kanye West,accepted,0,True,8610,?,False,False,False,76,False,195,4,2724546,False,198,6673632,2477,No Church in the Wild by JAY-Z & Kanye West (Ft. Frank Ocean & The-Dream),8
+2520,2520,134,137,False,Kendrick Lamar,accepted,8,False,21495,34478,False,False,True,107,True,714,2,4168155,False,573,2094952,1742,Control by Big Sean (Ft. Jay Electronica & Kendrick Lamar),221
+178,178,22,29,False,2Pac,unreviewed,0,False,2660,?,False,False,False,47,False,88,0,292144,False,62,13108123,8377,So Many Tears by 2Pac,1
+784,784,18,32,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,41,False,37,0,36710,False,2,9098507,9854,Niggaz 4 Life by N.W.A,8
+927,927,39,40,False,Outkast,accepted,0,False,693,?,False,False,False,149,False,146,0,272088,False,50,10325326,7173,Aquemini by OutKast,11
+1827,1827,30,31,False,The Game,accepted,2,False,2503,1124,False,False,True,123,True,82,0,140642,False,18,370458,4646,Crack Music by Kanye West (Ft. The Game),27
+1023,1023,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,99,False,37,0,86111,False,3,587214,7173,Slump by OutKast (Ft. Backbone & Cool Breeze),0
+2731,2731,59,62,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,27,True,453,0,1377723,False,100,13604173,401,FEAR. by Kendrick Lamar,5
+2615,2615,38,40,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,196,True,546,1,2377865,False,1535,4872271,1196,The Blacker the Berry by Kendrick Lamar,151
+2290,2290,22,28,False,Kanye West,accepted,0,True,8610,?,False,False,False,70,False,167,0,2147517,False,91,14230600,2126,Birthday Song by 2 Chainz (Ft. Kanye West),0
+2606,2606,66,67,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,15,True,246,0,2418330,False,820,2057651,1545,Collard Greens by ScHoolboy Q (Ft. Kendrick Lamar),10
+219,219,30,35,False,2Pac,accepted,0,False,2660,?,False,False,False,66,False,152,0,245908,False,29,6907431,7906,Against All Odds by 2Pac,40
+460,460,20,24,False,Eminem,accepted,4,True,17568,144243,False,False,True,30,True,191,3,1147870,False,203,3416697,2841,Love the Way You Lie by Eminem (Ft. Rihanna),35
+1476,1476,8,14,False,DMX,unreviewed,0,False,598,?,False,False,False,3,False,24,0,36887,False,42,8090554,7089,We Don't Give a Fuck by DMX (Ft. Jadakiss & Styles P),0
+510,510,42,43,False,Eminem,accepted,0,False,17568,144243,False,False,True,17,True,208,0,1014403,False,226,835745,7051,Forgot About Dre by Dr. Dre (Ft. Eminem),90
+2043,2043,60,62,False,T.I.,accepted,0,True,10964,?,False,False,False,82,False,199,1,2718643,False,228,2012171,1793,Versace (Remix) by Migos (Ft. Drake),12
+1606,1606,30,31,False,The Game,accepted,3,False,2503,1124,False,False,True,114,True,125,0,579775,False,56,7853060,947,El Chapo by The Game (Ft. Skrillex),54
+2393,2393,21,22,False,Kanye West,accepted,0,True,8610,?,False,False,False,139,False,171,0,1491573,False,99,8824322,826,Wolves by Kanye West (Ft. Sia & Vic Mensa),91
+53,53,20,23,False,2Pac,accepted,1,True,2660,?,False,False,False,286,False,146,0,897768,False,206,3931621,8489,Dear Mama by 2Pac,18
+733,733,40,52,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,46,False,60,0,42097,False,5,7396228,3586,8 Ball (Remix) by N.W.A,3
+1958,1958,40,41,False,T.I.,accepted,0,True,10964,?,False,False,False,135,False,294,0,3318872,False,2527,3272685,1449,0 to 100 / The Catch Up by Drake,20
+743,743,20,25,False,Ice Cube,accepted,0,False,419,?,False,False,False,35,False,28,0,41912,False,8,119867,10877,Parental Discretion Iz Advised by N.W.A (Ft. The D.O.C.),6
+2237,2237,45,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,94,False,191,0,2798227,False,1397,4816795,1207,Blessings by Big Sean (Ft. Drake & Kanye West),7
+2072,2072,37,39,False,T.I.,accepted,0,False,10964,?,False,False,False,20,False,138,0,2448942,False,317,2253177,1699,Furthest Thing by Drake,19
+659,659,21,26,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,74,False,56,0,87650,False,17,7654959,6845,Chin Check by N.W.A (Ft. Snoop Dogg),3
+773,773,25,36,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,31,False,25,0,38090,False,2,1508454,10877,Dopeman (Remix) by N.W.A,4
+501,501,52,54,False,Eminem,accepted,0,False,17568,144243,False,False,True,138,True,297,0,1024521,False,303,2395860,1657,Legacy by Eminem,106
+101,101,4,9,False,2Pac,accepted,2,False,2660,?,False,False,False,97,False,21,0,409421,False,30,232039,6389,The Rose That Grew From Concrete by 2Pac (Ft. Nikki Giovanni),6
+2523,2523,36,40,True,Kendrick Lamar,verified,10,True,21495,34478,False,False,True,78,True,363,3,4131701,True,623,2339675,2036,"Bitch, Don't Kill My Vibe by Kendrick Lamar",288
+738,738,20,25,False,Ice Cube,accepted,0,False,419,?,False,False,False,95,False,28,0,41912,False,8,1510616,10877,Parental Discretion Iz Advised by N.W.A (Ft. The D.O.C.),1
+1478,1478,8,14,False,DMX,accepted,0,False,598,?,False,False,False,112,False,24,0,36887,False,42,2889435,7089,We Don't Give a Fuck by DMX (Ft. Jadakiss & Styles P),2
+1631,1631,34,36,False,The Game,accepted,0,True,2503,1124,False,False,True,45,True,100,0,541196,False,28,1096064,2086,"Celebration by The Game (Ft. Chris Brown, Lil Wayne, Tyga & Wiz Khalifa)",7
+201,201,32,35,False,2Pac,accepted,0,False,2660,?,False,False,False,55,False,85,0,276104,False,35,12220762,7866,Me and My Girlfriend by 2Pac (Ft. Virginya Slim),0
+1746,1746,17,18,False,The Game,accepted,0,False,2503,1124,False,False,True,64,True,59,0,211688,False,13,1282797,1986,"All That (Lady) by The Game (Ft. Big Sean, Fabolous, Jeremih & Lil Wayne)",7
+2697,2697,22,25,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,36,True,305,0,1495678,False,169,13885902,129,"King's Dead by Jay Rock, Kendrick Lamar, Future & James Blake",10
+864,864,14,23,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,33,False,34,0,27247,False,6,1531684,9854,Real Niggaz Don't Die by N.W.A,2
+1522,1522,11,20,False,DMX,unreviewed,0,False,598,?,False,False,False,42,False,36,0,29021,False,51,14550290,7089,Blackout by DMX (Ft. JAY-Z & The LOX),0
+120,120,19,22,False,2Pac,accepted,0,False,2660,?,False,False,False,47,False,111,0,383454,False,65,1380878,7917,I Ain't Mad At Cha by 2Pac (Ft. Danny Boy Steward),24
+2371,2371,53,54,False,Kanye West,accepted,1,False,8610,?,False,False,False,109,False,315,0,1536371,False,192,8541279,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),41
+213,213,10,18,False,2Pac,accepted,0,False,2660,?,False,False,False,13,False,69,0,265651,False,35,3240526,7481,Do For Love by 2Pac (Ft. Eric Williams),2
+737,737,20,25,False,Ice Cube,accepted,0,False,419,?,False,False,False,53,False,28,0,41912,False,8,1510627,10877,Parental Discretion Iz Advised by N.W.A (Ft. The D.O.C.),4
+1321,1321,26,31,False,DMX,accepted,0,True,598,?,False,False,False,13,False,78,0,214830,False,87,1876653,6557,Party Up (Up In Here) by DMX,4
+1604,1604,30,31,False,The Game,accepted,0,False,2503,1124,False,False,True,38,True,125,0,579775,False,56,7854304,947,El Chapo by The Game (Ft. Skrillex),7
+2131,2131,13,14,False,T.I.,accepted,0,False,10964,?,False,False,False,88,False,93,0,2256798,False,1395,6350666,1111,My Way (Remix) by Fetty Wap (Ft. Drake),36
+924,924,21,26,False,Outkast,accepted,4,False,693,?,False,False,False,52,False,112,1,594125,False,64,1287045,5353,Roses by OutKast,8
+271,271,16,22,False,2Pac,unreviewed,0,False,2660,?,False,False,False,46,False,95,1,234474,False,28,13955999,8132,Can't C Me by 2Pac (Ft. George Clinton),0
+1701,1701,66,67,False,The Game,accepted,1,False,2503,1124,False,False,True,99,True,117,0,275989,False,163,3330546,1434,Bigger Than Me by The Game,4
+181,181,22,29,False,2Pac,unreviewed,1,False,2660,?,False,False,False,55,False,88,0,292144,False,62,12962768,8377,So Many Tears by 2Pac,1
+2027,2027,45,47,False,T.I.,accepted,0,True,10964,?,False,False,False,46,False,234,1,2749197,False,1861,4293695,1300,"Only by Nicki Minaj (Ft. Chris Brown, Drake & Lil Wayne)",25
+746,746,1,12,False,Ice Cube,unreviewed,1,False,419,?,False,False,False,101,False,8,0,41280,False,2,2156789,10877,Straight Outta Compton (Clean) by N.W.A,1
+340,340,25,26,False,Eminem,accepted,0,True,17568,144243,False,False,True,50,True,377,0,1878910,False,389,13029682,191,Walk on Water by Eminem (Ft. Beyonce),218
+1111,1111,18,27,False,Outkast,unreviewed,0,False,693,?,False,False,False,6,False,50,0,64483,False,12,13008531,6018,The Whole World by OutKast (Ft. Killer Mike),1
+2258,2258,50,53,True,Kanye West,verified,0,False,8610,?,False,False,False,103,False,316,2,2524716,True,382,4829534,1797,New Slaves by Kanye West,146
+1683,1683,43,48,False,The Game,unreviewed,0,False,2503,1124,False,False,True,88,True,90,0,284677,False,40,7889648,1986,Pray by The Game (Ft. J. Cole & JMSN),1
+206,206,10,18,False,2Pac,unreviewed,0,False,2660,?,False,False,False,220,False,69,0,265651,False,35,14020852,7481,Do For Love by 2Pac (Ft. Eric Williams),0
+1175,1175,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,87,False,60,0,53974,False,9,2799040,7210,Skew It On The Bar-B by OutKast (Ft. Raekwon),1
+2093,2093,15,16,False,T.I.,accepted,0,False,10964,?,False,False,False,181,False,168,0,2441784,False,145,9073923,751,Too Good by Drake (Ft. Rihanna),79
+807,807,23,26,False,Ice Cube,accepted,0,True,419,?,False,False,False,8,False,32,0,33966,False,5,11078389,10841,We Want Eazy by Eazy-E (Ft. Michel'le & N.W.A),3
+918,918,21,26,False,Outkast,accepted,0,False,693,?,False,False,False,25,False,112,1,594125,False,64,3225317,5353,Roses by OutKast,13
+1924,1924,23,24,False,T.I.,accepted,0,False,10964,?,False,False,False,226,False,398,0,4498975,False,1263,7466327,1026,Back to Back by Drake,179
+1057,1057,7,8,False,Outkast,accepted,0,True,693,?,False,False,False,83,False,43,0,74911,False,30,167460,3594,Down And Out by Kid Cudi,6
+2577,2577,12,16,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,32,True,235,3,3212355,False,190,11671071,401,LOVE. by Kendrick Lamar (Ft. Zacari),71
+901,901,31,32,False,Outkast,accepted,1,False,693,?,False,False,False,61,False,121,0,751230,False,95,1787357,6438,Ms. Jackson by OutKast,33
+890,890,13,18,False,Outkast,unreviewed,1,False,693,?,False,False,False,79,False,95,0,932378,False,84,11483769,5367,Hey Ya! by OutKast,25
+1168,1168,52,55,False,Outkast,accepted,0,False,693,?,False,False,False,93,False,64,1,54408,False,12,2717645,8735,Southernplayalisticadillacmuzik by OutKast,0
+1495,1495,17,24,False,DMX,unreviewed,0,False,598,?,False,False,False,42,False,31,0,34150,False,6,12770538,7509,"24 Hours to Live by Ma$e (Ft. Black Rob, DMX, The LOX & Puff Daddy)",0
+948,948,36,38,False,Outkast,accepted,0,False,693,?,False,False,False,44,False,95,0,234938,False,47,1626030,6452,B.O.B by OutKast,3
+1132,1132,24,27,False,Outkast,accepted,0,False,693,?,False,False,False,84,False,55,0,58072,False,12,11449288,7173,"Liberation by OutKast (Ft. Big Rube, CeeLo Green & Erykah Badu)",1
+142,142,27,32,False,2Pac,accepted,0,False,2660,?,False,False,False,21,False,120,0,357887,False,44,11750987,8048,2 of Amerikaz Most Wanted by 2Pac (Ft. Snoop Dogg),6
+1330,1330,6,12,False,DMX,accepted,0,False,598,?,False,False,False,55,False,58,0,200216,False,107,461600,7320,Ruff Ryders' Anthem by DMX,21
+110,110,14,22,False,2Pac,unreviewed,0,False,2660,?,False,False,False,42,False,90,0,403463,False,54,13839497,8132,All Eyez on Me by 2Pac (Ft. Big Syke),1
+58,58,20,23,False,2Pac,accepted,3,True,2660,?,False,False,False,87,False,146,0,897768,False,206,829250,8489,Dear Mama by 2Pac,38
+1403,1403,24,28,False,DMX,unreviewed,0,False,598,?,False,False,False,57,False,32,0,50538,False,57,11497953,7306,Let Me Fly by DMX,1
+1079,1079,45,48,False,Outkast,accepted,0,False,693,?,False,False,False,95,False,65,0,71516,False,15,2715458,8790,"Git Up, Git Out by OutKast (Ft. Goodie Mob)",3
+2479,2479,46,49,True,Kendrick Lamar,verified,40,True,21495,34478,False,False,True,31,True,375,2,5236229,True,872,909561,2119,Swimming Pools (Drank) by Kendrick Lamar,773
+2088,2088,15,16,False,T.I.,accepted,1,False,10964,?,False,False,False,92,False,168,0,2441784,False,145,9075664,751,Too Good by Drake (Ft. Rihanna),24
+324,324,12,13,False,Eminem,accepted,0,False,17568,144243,False,False,True,150,True,229,0,2590584,False,402,13271071,156,River by Eminem (Ft. Ed Sheeran),54
+2682,2682,53,54,False,Kendrick Lamar,accepted,2,False,21495,34478,False,False,True,89,True,315,0,1536371,False,192,8548894,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),40
+161,161,17,21,False,2Pac,accepted,0,False,2660,?,False,False,False,257,False,126,2,312702,False,48,11047986,8468,Me Against the World by 2Pac (Ft. Outlawz & Puff Johnson),13
+2465,2465,39,42,True,Kendrick Lamar,verified,19,True,21495,34478,False,False,True,25,True,393,2,7086094,True,669,1332378,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",1097
+2572,2572,12,16,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,44,True,235,3,3212355,False,190,11961397,401,LOVE. by Kendrick Lamar (Ft. Zacari),26
+1477,1477,8,14,False,DMX,unreviewed,0,False,598,?,False,False,False,39,False,24,0,36887,False,42,8090542,7089,We Don't Give a Fuck by DMX (Ft. Jadakiss & Styles P),0
+488,488,24,25,False,Eminem,accepted,2,True,17568,144243,False,False,True,99,True,278,0,1050140,False,672,5207896,1125,Best Friend by Yelawolf (Ft. Eminem),54
+1184,1184,22,23,False,Nas,accepted,0,True,38,?,False,False,False,223,False,125,0,2423056,False,1331,6310542,1177,Nasty Freestyle by T-Wayne,8
+258,258,9,12,False,2Pac,accepted,0,False,2660,?,False,False,False,77,False,58,0,240321,False,24,2991563,8132,"All Bout U by 2Pac (Ft. Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",5
+2505,2505,47,53,True,Kendrick Lamar,verified,2,False,21495,34478,False,False,True,83,True,363,5,4222368,True,861,2339671,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),415
+2111,2111,7,8,False,T.I.,accepted,1,False,10964,?,False,False,False,228,False,220,0,2378626,False,165,11550947,428,Passionfruit by Drake,287
+932,932,39,40,False,Outkast,accepted,1,False,693,?,False,False,False,134,False,146,0,272088,False,50,1462019,7173,Aquemini by OutKast,7
+226,226,29,34,False,2Pac,accepted,0,True,2660,?,False,False,False,17,False,100,0,244114,False,29,4919678,7906,To Live & Die in L.A. by 2Pac (Ft. Val Young),2
+1203,1203,0,5,False,Nas,unreviewed,0,False,38,?,False,False,False,42,False,3,0,6552,False,12,3088370,1746,Turnt Way by T-Wayne,0
+1967,1967,36,40,False,T.I.,accepted,0,False,10964,?,False,False,False,18,False,177,2,3274833,False,547,2479536,1699,From Time by Drake (Ft. Jhene Aiko),10
+114,114,19,22,False,2Pac,accepted,0,False,2660,?,False,False,False,58,False,111,0,383454,False,65,4287255,7917,I Ain't Mad At Cha by 2Pac (Ft. Danny Boy Steward),14
+710,710,24,26,False,Ice Cube,accepted,0,False,419,?,False,False,False,91,False,42,0,44509,False,5,8631009,10877,If It Ain't Ruff by N.W.A,2
+1061,1061,7,8,False,Outkast,accepted,0,True,693,?,False,False,False,33,False,43,0,74911,False,30,163802,3594,Down And Out by Kid Cudi,7
+2661,2661,51,52,False,Kendrick Lamar,accepted,5,True,21495,34478,False,False,True,138,True,360,0,2016243,False,1267,5055594,1162,i by Kendrick Lamar,36
+2712,2712,44,45,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,9,True,712,0,1479165,False,270,12400201,423,The Heart Part 4 by Kendrick Lamar,14
+651,651,16,22,False,Ice Cube,accepted,0,False,419,?,False,False,False,34,False,40,0,89259,False,12,10876386,10141,Real Niggaz by N.W.A,6
+1863,1863,39,42,False,T.I.,verified,0,True,10964,?,False,False,False,25,False,393,2,7086094,False,669,1332377,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",9
+1851,1851,50,52,False,The Game,accepted,0,False,2503,1124,False,False,True,11,True,79,0,138877,False,22,202884,2595,Red Nation by The Game (Ft. Lil Wayne),3
+168,168,10,16,False,2Pac,unreviewed,0,True,2660,?,False,False,False,45,False,75,0,310739,False,40,11047819,9110,I Get Around by 2Pac (Ft. Digital Underground),0
+2280,2280,28,30,False,Kanye West,accepted,0,True,8610,?,False,False,False,29,False,277,1,2219708,False,303,2801435,1797,Black Skinhead by Kanye West,5
+2470,2470,84,89,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,12,True,552,4,5613108,False,2095,8751615,2036,m.A.A.d city by Kendrick Lamar (Ft. MC Eiht),27
+319,319,52,57,False,Eminem,accepted,0,True,17568,144243,False,False,True,32,True,434,4,2640134,False,407,2175185,1727,Berzerk by Eminem,25
+2120,2120,21,22,False,T.I.,accepted,3,True,10964,?,False,False,False,81,False,218,0,2302935,False,163,10908765,541,Reminder by The Weeknd,126
+283,283,118,122,False,Eminem,accepted,1,True,17568,144243,False,False,True,12,True,1380,3,12190302,False,5604,10306563,1678,Rap God by Eminem,47
+2062,2062,25,27,False,T.I.,accepted,0,True,10964,?,False,False,False,34,False,153,0,2542718,False,168,765475,2217,HYFR by Drake (Ft. Lil Wayne),8
+2507,2507,47,53,True,Kendrick Lamar,verified,2,False,21495,34478,False,False,True,19,True,363,5,4222368,True,861,1903927,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),178
+727,727,40,52,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,44,False,60,0,42097,False,5,13134826,3586,8 Ball (Remix) by N.W.A,0
+602,602,42,43,False,Ice Cube,accepted,0,True,419,?,False,False,False,80,False,188,0,1173187,False,161,7478884,10906,Straight Outta Compton by N.W.A,5
+2405,2405,25,26,False,Kanye West,accepted,1,False,8610,?,False,False,False,34,False,239,0,1480434,False,207,55596,2914,Power by Kanye West,230
+1362,1362,27,29,False,DMX,unreviewed,0,False,598,?,False,False,False,52,False,60,0,101327,False,71,11784883,7306,Damien by DMX,0
+796,796,11,25,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,44,False,31,0,34645,False,3,11926473,11011,Express Yourself [Extended Mix] by N.W.A,0
+1377,1377,26,37,False,DMX,accepted,0,True,598,?,False,False,False,80,False,34,0,80238,False,12,6723969,?,"Touch It (Official Remix) by Busta Rhymes (Ft. DMX, Lloyd Banks, Mary J. Blige, Missy Elliott, Papoose & Rah Digga)",0
+1251,1251,0,20,False,Nas,unreviewed,0,False,38,?,False,False,False,58,False,5,0,?,False,?,7722205,1160,Want Sum Mo (Freestyle) by T-Wayne,0
+2450,2450,18,19,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,62,True,827,0,9407569,False,949,11593050,416,HUMBLE. by Kendrick Lamar,724
+1290,1290,29,38,False,DMX,accepted,1,False,598,?,False,False,False,53,False,84,0,332843,False,96,7265537,5360,Where The Hood At by DMX,2
+1677,1677,110,117,False,The Game,accepted,0,False,2503,1124,False,False,True,12,True,149,0,314608,False,338,3178591,1475,Chiraq To LA by Tyga (Ft. The Game),3
+2366,2366,22,23,False,Kanye West,accepted,1,False,8610,?,False,False,False,20,False,127,0,1558247,False,50,8667142,826,Pt. 2 by Kanye West (Ft. Desiigner),21
+2276,2276,25,27,False,Kanye West,accepted,0,False,8610,?,False,False,False,25,False,237,1,2391365,False,254,1871828,1797,Blood On the Leaves by Kanye West,62
+375,375,55,57,False,Eminem,accepted,0,True,17568,144243,False,False,True,36,True,290,1,1404525,False,294,2102926,1685,Survival by Eminem (Ft. Liz Rodrigues),30
+1253,1253,0,20,False,Nas,unreviewed,0,False,38,?,False,False,False,60,False,5,0,?,False,?,7693679,1160,Want Sum Mo (Freestyle) by T-Wayne,0
+1361,1361,19,21,False,DMX,accepted,0,False,598,?,False,False,False,109,False,28,0,154723,False,78,526861,6725,What These Bitches Want by DMX (Ft. Sisqo),1
+1355,1355,19,21,False,DMX,accepted,0,False,598,?,False,False,False,94,False,28,0,154723,False,78,1632161,6725,What These Bitches Want by DMX (Ft. Sisqo),0
+2612,2612,38,40,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,9,True,546,1,2377865,False,1535,7170482,1196,The Blacker the Berry by Kendrick Lamar,62
+1551,1551,15,23,False,DMX,accepted,1,False,598,?,False,False,False,84,False,32,0,27804,False,75,1698949,6725,What's My Name by DMX,3
+505,505,42,43,False,Eminem,accepted,2,False,17568,144243,False,False,True,52,True,208,0,1014403,False,226,12491764,7051,Forgot About Dre by Dr. Dre (Ft. Eminem),7
+1326,1326,6,12,False,DMX,unreviewed,1,False,598,?,False,False,False,114,False,58,0,200216,False,107,11970889,7320,Ruff Ryders' Anthem by DMX,1
+2084,2084,22,35,True,T.I.,accepted,0,True,10964,?,False,False,False,107,False,149,12,2449361,False,452,4948222,1192,Energy by Drake,13
+2101,2101,18,19,False,T.I.,accepted,1,False,10964,?,False,False,False,214,False,152,0,2401685,False,59,9072723,751,Child's Play by Drake,173
+978,978,26,27,False,Outkast,accepted,1,False,693,?,False,False,False,43,False,84,0,174452,False,23,2927890,7249,Rosa Parks by OutKast,0
+1760,1760,19,21,False,The Game,accepted,1,False,2503,1124,False,False,True,47,True,63,0,199159,False,9,8243,4870,The Documentary by The Game,5
+1117,1117,18,27,False,Outkast,accepted,0,False,693,?,False,False,False,68,False,50,0,64483,False,12,2504310,6018,The Whole World by OutKast (Ft. Killer Mike),4
+234,234,38,41,False,2Pac,accepted,0,False,2660,?,False,False,False,54,False,93,0,243794,False,37,13622644,5654,Thugz Mansion by 2Pac (Ft. Anthony Hamilton),1
+860,860,14,23,False,Ice Cube,accepted,0,False,419,?,False,False,False,165,False,34,0,27247,False,6,2535991,9854,Real Niggaz Don't Die by N.W.A,4
+127,127,17,19,False,2Pac,accepted,0,False,2660,?,False,False,False,31,False,70,0,381218,False,80,1680047,5309,Runnin' (Dying to Live) by 2Pac (Ft. The Notorious B.I.G.),12
+502,502,52,54,False,Eminem,accepted,0,False,17568,144243,False,False,True,104,True,297,0,1024521,False,303,2395845,1657,Legacy by Eminem,16
+1809,1809,39,44,False,The Game,accepted,0,False,2503,1124,False,False,True,64,True,54,0,150795,False,8,1685443,1986,Church by The Game (Ft. King Chip & Trey Songz),0
+785,785,43,47,False,Ice Cube,unreviewed,0,True,419,?,False,False,False,74,False,54,0,36616,False,?,13367112,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),1
+848,848,27,32,False,Ice Cube,accepted,0,True,419,?,False,False,False,240,False,24,0,29132,False,2,10325565,10218,"We're All in the Same Gang by The West Coast Rap All Stars (Ft. Above the Law, Body And Soul, Def Jef, Digital Underground, Eazy-E, Ice-T, J.J. Fad, King T, MC Hammer, Michel'le, N.W.A, Oaktown's 3.5.7, Tone Loc & Young MC)",3
+1661,1661,43,45,False,The Game,accepted,3,False,2503,1124,False,False,True,99,True,114,0,335010,False,38,456279,3575,My Life by The Game (Ft. Lil Wayne),26
+577,577,6,11,False,Eminem,unreviewed,3,False,17568,144243,False,False,True,129,True,173,0,826526,False,170,13891421,1657,Stronger Than I Was by Eminem,0
+2666,2666,28,29,False,Kendrick Lamar,accepted,2,True,21495,34478,False,False,True,26,True,198,0,1921896,False,426,586259,2514,A.D.H.D by Kendrick Lamar,88
+1582,1582,51,52,False,The Game,accepted,0,True,2503,1124,False,False,True,16,True,151,0,698013,False,73,4205355,2466,"Martians vs. Goblins by The Game (Ft. Lil Wayne & Tyler, The Creator)",3
+1198,1198,2,9,False,Nas,accepted,0,False,38,?,False,False,False,254,False,39,0,282527,False,50,4955190,1174,Flicka Da Wrist by Chedda Da Connect (Ft. T-Wayne),8
+2373,2373,53,54,False,Kanye West,accepted,0,False,8610,?,False,False,False,52,False,315,0,1536371,False,192,8541226,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),54
+1455,1455,35,42,False,DMX,accepted,0,False,598,?,False,False,False,45,False,48,0,37416,False,56,8453757,7306,Niggaz Done Started Something by DMX (Ft. The LOX & Ma$e),3
+1300,1300,13,15,False,DMX,accepted,1,False,598,?,False,False,False,30,False,66,0,311514,False,89,92339,5599,X Gon' Give It to Ya by DMX,14
+742,742,20,25,False,Ice Cube,accepted,1,False,419,?,False,False,False,73,False,28,0,41912,False,8,119869,10877,Parental Discretion Iz Advised by N.W.A (Ft. The D.O.C.),2
+1896,1896,10,11,False,T.I.,accepted,6,True,10964,?,False,False,False,100,False,237,0,5521909,False,201,8940646,775,One Dance by Drake (Ft. Kyla & Wizkid),327
+414,414,53,54,False,Eminem,accepted,0,False,17568,144243,False,False,True,17,True,251,0,1310185,False,380,10453112,5843,'Till I Collapse by Eminem (Ft. Nate Dogg),10
+2069,2069,37,39,False,T.I.,accepted,0,False,10964,?,False,False,False,66,False,138,0,2448942,False,317,2712413,1699,Furthest Thing by Drake,16
+1378,1378,26,37,False,DMX,unreviewed,0,True,598,?,False,False,False,96,False,34,0,80238,False,12,6723914,?,"Touch It (Official Remix) by Busta Rhymes (Ft. DMX, Lloyd Banks, Mary J. Blige, Missy Elliott, Papoose & Rah Digga)",1
+3,3,94,104,False,2Pac,accepted,1,True,2660,?,False,False,False,54,False,294,0,2015929,False,338,11155900,8020,Hit 'Em Up by 2Pac (Ft. Outlawz),5
+562,562,31,34,True,Eminem,verified,18,True,17568,144243,False,False,True,21,True,212,2,848363,True,144,5140206,7055,My Name Is by Eminem,631
+2461,2461,39,42,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,21,True,393,2,7086094,False,669,1880010,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",95
+1114,1114,18,27,False,Outkast,accepted,0,False,693,?,False,False,False,21,False,50,0,64483,False,12,3436418,6018,The Whole World by OutKast (Ft. Killer Mike),2
+837,837,22,41,False,Ice Cube,accepted,0,False,419,?,False,False,False,56,False,30,0,29649,False,3,2847785,10877,Compton's N the House (Remix) by N.W.A,1
+2453,2453,18,19,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,46,True,827,0,9407569,False,949,11592781,416,HUMBLE. by Kendrick Lamar,196
+778,778,18,32,False,Ice Cube,accepted,0,False,419,?,False,False,False,17,False,37,0,36710,False,2,11529928,9854,Niggaz 4 Life by N.W.A,1
+1756,1756,19,21,False,The Game,accepted,0,False,2503,1124,False,False,True,54,True,63,0,199159,False,9,23628,4870,The Documentary by The Game,6
+2055,2055,20,21,False,T.I.,accepted,2,True,10964,?,False,False,False,111,False,154,0,2714212,False,215,1359996,1948,Love Me by Lil Wayne (Ft. Drake & Future),37
+2404,2404,25,26,False,Kanye West,accepted,0,False,8610,?,False,False,False,92,False,239,0,1480434,False,207,126013,2914,Power by Kanye West,185
+75,75,27,29,False,2Pac,accepted,0,False,2660,?,False,False,False,15,False,142,0,589526,False,94,7909491,8179,California Love by 2Pac (Ft. Dr. Dre & Roger Troutman),29
+1297,1297,13,15,False,DMX,accepted,1,False,598,?,False,False,False,40,False,66,0,311514,False,89,3292432,5599,X Gon' Give It to Ya by DMX,11
+309,309,37,42,False,Eminem,accepted,0,True,17568,144243,False,False,True,9,True,399,4,3060005,False,1027,821632,5683,Lose Yourself by Eminem,44
+421,421,53,54,False,Eminem,accepted,1,False,17568,144243,False,False,True,201,True,251,0,1310185,False,380,1324159,5843,'Till I Collapse by Eminem (Ft. Nate Dogg),83
+835,835,22,41,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,69,False,30,0,29649,False,3,10756166,10877,Compton's N the House (Remix) by N.W.A,1
+153,153,26,28,False,2Pac,accepted,1,False,2660,?,False,False,False,95,False,128,0,323029,False,54,3083274,8132,Only God Can Judge Me by 2Pac (Ft. Rappin' 4-Tay),12
+2504,2504,47,53,False,Kendrick Lamar,accepted,0,False,21495,34478,False,False,True,21,True,363,5,4222368,False,861,2739002,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),38
+2597,2597,30,31,False,Kendrick Lamar,accepted,3,True,21495,34478,False,False,True,23,True,359,0,2563987,False,651,5061944,1162,Alright by Kendrick Lamar,54
+1729,1729,7,12,False,The Game,accepted,0,True,2503,1124,False,False,True,99,True,51,4,227520,False,30,10322937,627,"#WHERESTHELOVE by The Black Eyed Peas (Ft. Andra Day, A$AP Rocky, Cassie, DJ Khaled, French Montana, The Game, Jaden Smith, Jamie Foxx, Jessie J, Justin Timberlake, Mary J. Blige, Nicole Scherzinger, Puff Daddy, Tori Kelly, Ty Dolla $ign, Usher, V Bozeman & The World)",11
+792,792,43,47,False,Ice Cube,accepted,0,True,419,?,False,False,False,75,False,54,0,36616,False,?,10479330,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),1
+1764,1764,50,57,False,The Game,accepted,0,False,2503,1124,False,False,True,9,True,88,0,188652,False,27,3901578,1986,See No Evil by The Game (Ft. Kendrick Lamar & Tank),0
+594,594,39,49,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,76,False,193,0,1708934,False,146,13981936,10876,Fuck tha Police by N.W.A,1
+388,388,48,51,False,Eminem,accepted,0,True,17568,144243,False,False,True,28,True,292,2,1384638,False,302,2829642,6578,The Real Slim Shady by Eminem,70
+129,129,17,19,False,2Pac,accepted,0,False,2660,?,False,False,False,22,False,70,0,381218,False,80,1105867,5309,Runnin' (Dying to Live) by 2Pac (Ft. The Notorious B.I.G.),20
+1272,1272,24,27,False,DMX,accepted,2,True,598,?,False,False,False,408,False,125,0,1136917,False,296,1901651,1664,She Knows by J. Cole (Ft. Amber Coffman),60
+2506,2506,47,53,True,Kendrick Lamar,verified,2,False,21495,34478,False,False,True,31,True,363,5,4222368,True,861,2339609,2036,Money Trees by Kendrick Lamar (Ft. Jay Rock),643
+1970,1970,36,40,False,T.I.,accepted,0,False,10964,?,False,False,False,74,False,177,2,3274833,False,547,2241180,1699,From Time by Drake (Ft. Jhene Aiko),23
+65,65,26,29,False,2Pac,accepted,3,False,2660,?,False,False,False,45,False,142,0,600994,False,128,2988306,8132,Ambitionz Az A Ridah by 2Pac,12
+2018,2018,45,46,False,T.I.,accepted,0,True,10964,?,False,False,False,19,False,191,0,2798227,False,1397,4840471,1207,Blessings by Big Sean (Ft. Drake & Kanye West),56
+645,645,16,22,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,46,False,40,0,89259,False,12,14529910,10141,Real Niggaz by N.W.A,0
+2008,2008,66,69,True,T.I.,verified,5,False,10964,?,False,False,False,72,False,306,2,2875478,True,342,2247556,1699,Pound Cake / Paris Morton Music 2 by Drake (Ft. JAY-Z),110
+809,809,23,26,False,Ice Cube,accepted,1,True,419,?,False,False,False,11,False,32,0,33966,False,5,11078377,10841,We Want Eazy by Eazy-E (Ft. Michel'le & N.W.A),2
+1472,1472,8,14,False,DMX,unreviewed,0,False,598,?,False,False,False,8,False,24,0,36887,False,42,14155157,7089,We Don't Give a Fuck by DMX (Ft. Jadakiss & Styles P),0
+1587,1587,51,52,False,The Game,accepted,0,True,2503,1124,False,False,True,5,True,151,0,698013,False,73,512180,2466,"Martians vs. Goblins by The Game (Ft. Lil Wayne & Tyler, The Creator)",11
+1726,1726,7,12,True,The Game,verified,3,True,2503,1124,False,False,True,203,True,51,4,227520,True,30,10326429,627,"#WHERESTHELOVE by The Black Eyed Peas (Ft. Andra Day, A$AP Rocky, Cassie, DJ Khaled, French Montana, The Game, Jaden Smith, Jamie Foxx, Jessie J, Justin Timberlake, Mary J. Blige, Nicole Scherzinger, Puff Daddy, Tori Kelly, Ty Dolla $ign, Usher, V Bozeman & The World)",50
+1505,1505,24,27,False,DMX,accepted,0,False,598,?,False,False,False,48,False,21,0,33958,False,50,3058878,7306,X-Is Coming by DMX,1
+2743,2743,13,15,False,Kendrick Lamar,unreviewed,0,True,21495,34478,False,False,True,136,True,159,0,1329333,False,136,14140226,136,All the Stars by Kendrick Lamar & SZA (Ft. Kendrick Lamar & SZA),3
+2235,2235,45,46,False,Kanye West,accepted,1,True,8610,?,False,False,False,21,False,191,0,2798227,False,1397,4854845,1207,Blessings by Big Sean (Ft. Drake & Kanye West),90
+771,771,25,36,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,97,False,25,0,38090,False,2,1508466,10877,Dopeman (Remix) by N.W.A,2
+1910,1910,12,13,False,T.I.,accepted,0,True,10964,?,False,False,False,26,False,168,0,5132018,False,475,2072328,1747,"Hold On, We're Going Home by Drake (Ft. Majid Jordan)",44
+361,361,59,65,False,Eminem,accepted,0,True,17568,144243,False,False,True,17,True,375,3,1680661,False,430,2936736,6389,Stan by Eminem (Ft. Dido),76
+1156,1156,33,34,False,Outkast,accepted,0,False,693,?,False,False,False,94,False,66,0,55269,False,10,2769976,7936,Two Dope Boyz (In a Cadillac) by OutKast,3
+2664,2664,28,29,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,9,True,198,0,1921896,False,426,705824,2514,A.D.H.D by Kendrick Lamar,44
+2322,2322,18,19,False,Kanye West,accepted,1,True,8610,?,False,False,False,62,False,197,0,1720858,False,123,8675368,826,Famous by Kanye West (Ft. Rihanna),25
+378,378,55,57,False,Eminem,accepted,1,True,17568,144243,False,False,True,121,True,290,1,1404525,False,294,2101232,1685,Survival by Eminem (Ft. Liz Rodrigues),23
+31,31,39,47,False,2Pac,unreviewed,1,False,2660,?,False,False,False,49,False,231,1,1028013,False,143,14360852,7768,Hail Mary by 2Pac (Ft. Outlawz & Prince Ital Joe),1
+598,598,42,43,False,Ice Cube,accepted,1,True,419,?,False,False,False,19,False,188,0,1173187,False,161,7609432,10906,Straight Outta Compton by N.W.A,37
+1014,1014,19,20,False,Outkast,accepted,0,False,693,?,False,False,False,50,False,50,0,93670,False,33,164827,7173,"Return of the ""G"" by OutKast",23
+1450,1450,3,4,False,DMX,accepted,1,False,598,?,False,False,False,236,False,18,0,37939,False,46,966168,4310,Lord Give Me a Sign by DMX,9
+1385,1385,19,23,False,DMX,accepted,0,False,598,?,False,False,False,41,False,47,0,78612,False,9,11730606,7132,"Money, Cash, Hoes by JAY-Z (Ft. DMX)",0
+132,132,17,19,False,2Pac,accepted,9,False,2660,?,False,False,False,148,False,70,0,381218,False,80,14246,5309,Runnin' (Dying to Live) by 2Pac (Ft. The Notorious B.I.G.),31
+896,896,31,32,False,Outkast,accepted,1,False,693,?,False,False,False,18,False,121,0,751230,False,95,8260641,6438,Ms. Jackson by OutKast,33
+23,23,22,27,False,2Pac,accepted,1,True,2660,?,False,False,False,29,False,158,0,1163069,False,159,3174843,8970,Keep Ya Head Up by 2Pac,73
+1588,1588,51,52,False,The Game,accepted,5,True,2503,1124,False,False,True,42,True,151,0,698013,False,73,488996,2466,"Martians vs. Goblins by The Game (Ft. Lil Wayne & Tyler, The Creator)",47
+533,533,48,50,False,Eminem,accepted,1,True,17568,144243,False,False,True,37,True,235,0,962445,False,310,612914,2943,Not Afraid by Eminem,19
+1994,1994,42,43,False,T.I.,accepted,0,False,10964,?,False,False,False,62,False,195,0,3081814,False,165,446517,2378,The Motto by Drake (Ft. Lil Wayne),16
+412,412,54,56,False,Eminem,accepted,0,True,17568,144243,False,False,True,15,True,295,0,1338433,False,198,63523,3188,"Forever by Drake (Ft. Eminem, Kanye West & Lil Wayne)",39
+126,126,17,19,False,2Pac,accepted,3,False,2660,?,False,False,False,52,False,70,0,381218,False,80,1970192,5309,Runnin' (Dying to Live) by 2Pac (Ft. The Notorious B.I.G.),7
+1879,1879,19,20,False,T.I.,accepted,0,True,10964,?,False,False,False,94,False,433,0,6490108,False,740,13561781,121,God's Plan by Drake,90
+795,795,11,25,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,20,False,31,0,34645,False,3,13497781,11011,Express Yourself [Extended Mix] by N.W.A,0
+186,186,12,15,False,2Pac,accepted,2,False,2660,?,False,False,False,92,False,72,0,290854,False,74,1218524,4863,Ghetto Gospel by 2Pac,12
+1182,1182,22,23,False,Nas,accepted,1,True,38,?,False,False,False,52,False,125,0,2423056,False,1331,6335839,1177,Nasty Freestyle by T-Wayne,9
+2346,2346,25,26,False,Kanye West,accepted,0,False,8610,?,False,False,False,61,False,273,0,1657441,False,82,9070748,751,U With Me? by Drake,52
+2392,2392,21,22,False,Kanye West,accepted,0,True,8610,?,False,False,False,63,False,171,0,1491573,False,99,8824361,826,Wolves by Kanye West (Ft. Sia & Vic Mensa),64
+2358,2358,22,23,False,Kanye West,accepted,0,False,8610,?,False,False,False,23,False,127,0,1558247,False,50,8680134,826,Pt. 2 by Kanye West (Ft. Desiigner),54
+1600,1600,16,17,False,The Game,accepted,0,False,2503,1124,False,False,True,59,True,79,0,590497,False,90,1017905,1905,Switch Lanes by Tyga (Ft. The Game),3
+2734,2734,16,19,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,55,True,100,0,1376561,False,138,1700738,1705,"Memories Back Then by T.I. (Ft. B.o.B, Kendrick Lamar & Kris Stephens)",7
+311,311,52,57,True,Eminem,verified,42,True,17568,144243,False,False,True,68,True,434,4,2640134,True,407,9176922,1727,Berzerk by Eminem,622
+1400,1400,19,29,False,DMX,unreviewed,0,False,598,?,False,False,False,86,False,34,0,54207,False,7,3042078,2049,D3mons by Machine Gun Kelly (Ft. DMX),0
+2041,2041,60,62,False,T.I.,accepted,0,True,10964,?,False,False,False,66,False,199,1,2718643,False,228,2638695,1793,Versace (Remix) by Migos (Ft. Drake),45
+170,170,10,16,False,2Pac,accepted,0,True,2660,?,False,False,False,28,False,75,0,310739,False,40,638124,9110,I Get Around by 2Pac (Ft. Digital Underground),23
+1189,1189,22,23,False,Nas,accepted,0,True,38,?,False,False,False,55,False,125,0,2423056,False,1331,6273607,1177,Nasty Freestyle by T-Wayne,7
+889,889,13,18,False,Outkast,accepted,2,False,693,?,False,False,False,153,False,95,0,932378,False,84,11483776,5367,Hey Ya! by OutKast,35
+1740,1740,33,34,False,The Game,accepted,0,True,2503,1124,False,False,True,117,True,106,0,222423,False,22,2261387,4870,Dreams by The Game,24
+1982,1982,27,28,False,T.I.,accepted,0,True,10964,?,False,False,False,41,False,196,0,3183017,False,226,1469134,1929,Started from the Bottom by Drake,21
+432,432,40,50,True,Eminem,verified,1,True,17568,144243,False,False,True,56,True,411,7,1221363,True,153,11385262,471,No Favors by Big Sean (Ft. Eminem),49
+1702,1702,19,20,False,The Game,accepted,0,True,2503,1124,False,False,True,39,True,45,0,273854,False,10,11594686,699,All Eyez by The Game (Ft. Jeremih),2
+2423,2423,18,19,False,Kanye West,accepted,1,False,8610,?,False,False,False,37,False,156,0,1385859,False,89,8664834,826,FML by Kanye West (Ft. The Weeknd),31
+1491,1491,21,33,False,DMX,accepted,0,False,598,?,False,False,False,98,False,41,0,34642,False,7,3892358,7369,"Money, Power & Respect by The LOX (Ft. DMX & Lil' Kim)",0
+532,532,48,50,False,Eminem,accepted,5,True,17568,144243,False,False,True,89,True,235,0,962445,False,310,612917,2943,Not Afraid by Eminem,30
+2573,2573,12,16,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,64,True,235,3,3212355,False,190,11696834,401,LOVE. by Kendrick Lamar (Ft. Zacari),23
+60,60,26,29,False,2Pac,unreviewed,0,False,2660,?,False,False,False,13,False,142,0,600994,False,128,13919758,8132,Ambitionz Az A Ridah by 2Pac,1
+1379,1379,26,37,False,DMX,accepted,0,True,598,?,False,False,False,80,False,34,0,80238,False,12,6723871,?,"Touch It (Official Remix) by Busta Rhymes (Ft. DMX, Lloyd Banks, Mary J. Blige, Missy Elliott, Papoose & Rah Digga)",0
+1719,1719,14,16,False,The Game,accepted,0,False,2503,1124,False,False,True,51,True,74,0,265541,False,33,869305,4926,How We Do by The Game (Ft. 50 Cent),1
+166,166,10,16,False,2Pac,unreviewed,0,True,2660,?,False,False,False,50,False,75,0,310739,False,40,12788031,9110,I Get Around by 2Pac (Ft. Digital Underground),1
+1106,1106,16,19,False,Outkast,accepted,0,False,693,?,False,False,False,41,False,27,0,66018,False,10,2369652,5353,She Lives in My Lap by OutKast (Ft. Rosario Dawson),9
+259,259,9,12,False,2Pac,accepted,0,False,2660,?,False,False,False,40,False,58,0,240321,False,24,2968526,8132,"All Bout U by 2Pac (Ft. Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",3
+1509,1509,24,27,False,DMX,accepted,0,False,598,?,False,False,False,54,False,21,0,33958,False,50,786243,7306,X-Is Coming by DMX,0
+503,503,52,54,False,Eminem,accepted,0,False,17568,144243,False,False,True,61,True,297,0,1024521,False,303,2395844,1657,Legacy by Eminem,17
+1634,1634,29,30,False,The Game,accepted,1,True,2503,1124,False,False,True,39,True,110,0,505744,False,68,2990957,4860,Hate It or Love It by The Game (Ft. 50 Cent),12
+1988,1988,42,43,False,T.I.,accepted,0,False,10964,?,False,False,False,21,False,195,0,3081814,False,165,6734381,2378,The Motto by Drake (Ft. Lil Wayne),5
+255,255,9,12,False,2Pac,unreviewed,0,False,2660,?,False,False,False,222,False,58,0,240321,False,24,13775927,8132,"All Bout U by 2Pac (Ft. Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",3
+1264,1264,25,26,False,DMX,accepted,4,False,598,?,False,False,False,148,False,273,0,1657441,False,82,9070860,751,U With Me? by Drake,255
+1869,1869,39,42,True,T.I.,verified,19,True,10964,?,False,False,False,25,False,393,2,7086094,True,669,1332378,2034,"Fuckin' Problems by A$AP Rocky (Ft. 2 Chainz, Drake & Kendrick Lamar)",1097
+1315,1315,26,31,False,DMX,accepted,1,True,598,?,False,False,False,41,False,78,0,214830,False,87,4712562,6557,Party Up (Up In Here) by DMX,1
+2649,2649,98,101,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,30,True,552,2,2049199,False,111,1543688,2036,"Sing About Me, I'm Dying of Thirst by Kendrick Lamar",51
+2550,2550,47,51,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,82,True,346,3,3910160,False,380,1507006,2036,Poetic Justice by Kendrick Lamar (Ft. Drake),18
+2552,2552,23,24,False,Kendrick Lamar,accepted,0,True,21495,34478,False,False,True,49,True,382,0,3709414,False,1885,7991716,1162,King Kunta by Kendrick Lamar,26
+1859,1859,22,24,False,T.I.,accepted,3,True,10964,?,False,False,False,69,False,258,1,7397166,False,578,8586642,844,Work by Rihanna (Ft. Drake),96
+1579,1579,17,18,False,The Game,accepted,1,True,2503,1124,False,False,True,26,True,118,0,802089,False,611,3226923,1460,Pills N Potions by Nicki Minaj,16
+1207,1207,0,7,False,Nas,unreviewed,0,False,38,?,False,False,False,25,False,9,0,5594,False,3,10764117,754,Tell Me What You Want by T-Wayne (Ft. Fetty Wap & Monty),0
+1227,1227,0,6,False,Nas,unreviewed,0,False,38,?,False,False,False,45,False,3,0,?,False,?,7742908,1115,Aye Yay Yay Yea by T-Wayne (Ft. Chedda Da Connect),0
+2614,2614,38,40,False,Kendrick Lamar,accepted,1,False,21495,34478,False,False,True,117,True,546,1,2377865,False,1535,4872272,1196,The Blacker the Berry by Kendrick Lamar,150
+1208,1208,0,7,False,Nas,unreviewed,0,False,38,?,False,False,False,29,False,9,0,5594,False,3,10094992,754,Tell Me What You Want by T-Wayne (Ft. Fetty Wap & Monty),2
+1100,1100,17,18,False,Outkast,accepted,0,False,693,?,False,False,False,126,False,53,0,66937,False,10,144501,7173,Da Art of Storytellin' (Part 2) by OutKast,17
+1454,1454,35,42,False,DMX,unreviewed,0,False,598,?,False,False,False,41,False,48,0,37416,False,56,13616768,7306,Niggaz Done Started Something by DMX (Ft. The LOX & Ma$e),1
+950,950,36,38,False,Outkast,accepted,0,False,693,?,False,False,False,71,False,95,0,234938,False,47,698849,6452,B.O.B by OutKast,14
+1046,1046,15,18,False,Outkast,unreviewed,0,False,693,?,False,False,False,29,False,39,0,75496,False,17,7947873,5353,The Way You Move by OutKast (Ft. Sleepy Brown),2
+51,51,20,23,False,2Pac,unreviewed,0,True,2660,?,False,False,False,34,False,146,0,897768,False,206,8207693,8489,Dear Mama by 2Pac,3
+1637,1637,29,30,False,The Game,accepted,0,True,2503,1124,False,False,True,52,True,110,0,505744,False,68,2942007,4860,Hate It or Love It by The Game (Ft. 50 Cent),23
+1180,1180,23,24,False,Outkast,accepted,0,False,693,?,False,False,False,104,False,60,0,53974,False,9,587122,7210,Skew It On The Bar-B by OutKast (Ft. Raekwon),16
+2663,2663,28,29,False,Kendrick Lamar,accepted,5,True,21495,34478,False,False,True,40,True,198,0,1921896,False,426,2498526,2514,A.D.H.D by Kendrick Lamar,12
+1955,1955,4,5,False,T.I.,accepted,3,True,10964,?,False,False,False,314,False,198,0,3452374,False,173,10710162,574,Fake Love by Drake,249
+793,793,43,47,False,Ice Cube,accepted,0,True,419,?,False,False,False,52,False,54,0,36616,False,?,9331803,720,Frederick Douglass vs Thomas Jefferson by Epic Rap Battles of History (Ft. J. B. Smoove & Nice Peter),2
+1537,1537,4,13,False,DMX,unreviewed,0,False,598,?,False,False,False,51,False,21,0,28888,False,55,13190677,7306,I Can Feel It by DMX (Ft. Nardo),0
+1239,1239,2,17,False,Nas,unreviewed,0,False,38,?,False,False,False,45,False,6,0,?,False,?,8489339,931,Broke Wrist by Rich The Kid (Ft. Key! & T-Wayne),0
+1558,1558,42,43,False,The Game,accepted,0,True,2503,1124,False,False,True,90,True,218,0,1104987,False,275,7169353,1060,100 by The Game (Ft. Drake),29
+155,155,17,21,False,2Pac,unreviewed,0,False,2660,?,False,False,False,22,False,126,2,312702,False,48,11854547,8468,Me Against the World by 2Pac (Ft. Outlawz & Puff Johnson),7
+2589,2589,17,18,False,Kendrick Lamar,accepted,10,True,21495,34478,False,False,True,148,True,319,0,3190791,False,366,10328722,625,goosebumps by Travis Scott (Ft. Kendrick Lamar),76
+1775,1775,57,58,False,The Game,accepted,0,False,2503,1124,False,False,True,34,True,157,0,183015,False,19,10457464,611,92 Bars by The Game,2
+68,68,26,29,False,2Pac,accepted,0,False,2660,?,False,False,False,52,False,142,0,600994,False,128,2986319,8132,Ambitionz Az A Ridah by 2Pac,17
+2591,2591,30,31,False,Kendrick Lamar,accepted,2,True,21495,34478,False,False,True,26,True,359,0,2563987,False,651,7343283,1162,Alright by Kendrick Lamar,31
+1905,1905,12,13,False,T.I.,accepted,0,True,10964,?,False,False,False,31,False,168,0,5132018,False,475,2243019,1747,"Hold On, We're Going Home by Drake (Ft. Majid Jordan)",15
+1986,1986,42,43,False,T.I.,accepted,1,False,10964,?,False,False,False,28,False,195,0,3081814,False,165,11262839,2378,The Motto by Drake (Ft. Lil Wayne),3
+1857,1857,22,24,False,T.I.,accepted,0,True,10964,?,False,False,False,162,False,258,1,7397166,False,578,8588537,844,Work by Rihanna (Ft. Drake),64
+1593,1593,16,17,False,The Game,accepted,0,False,2503,1124,False,False,True,45,True,79,0,590497,False,90,1731965,1905,Switch Lanes by Tyga (Ft. The Game),3
+2229,2229,65,67,False,Kanye West,accepted,0,False,8610,?,False,False,False,96,False,362,0,2968632,False,314,6736858,2766,"Monster by Kanye West (Ft. Bon Iver, JAY-Z, Nicki Minaj & Rick Ross)",61
+1224,1224,0,3,False,Nas,unreviewed,0,False,38,?,False,False,False,26,False,3,0,?,False,?,7716289,1115,Fuck It Up by T-Wayne,0
+1614,1614,73,76,False,The Game,accepted,0,False,2503,1124,False,False,True,87,True,141,0,562484,False,46,3230293,2466,The City by The Game (Ft. Kendrick Lamar),8
+1743,1743,17,18,False,The Game,accepted,0,False,2503,1124,False,False,True,19,True,59,0,211688,False,13,1499294,1986,"All That (Lady) by The Game (Ft. Big Sean, Fabolous, Jeremih & Lil Wayne)",1
+1652,1652,43,45,False,The Game,accepted,0,False,2503,1124,False,False,True,41,True,114,0,335010,False,38,14112701,3575,My Life by The Game (Ft. Lil Wayne),1
+59,59,20,23,False,2Pac,accepted,7,True,2660,?,False,False,False,189,False,146,0,897768,False,206,345726,8489,Dear Mama by 2Pac,34
+1373,1373,26,37,False,DMX,unreviewed,0,True,598,?,False,False,False,48,False,34,0,80238,False,12,10555484,?,"Touch It (Official Remix) by Busta Rhymes (Ft. DMX, Lloyd Banks, Mary J. Blige, Missy Elliott, Papoose & Rah Digga)",1
+2447,2447,12,13,False,Kanye West,accepted,1,False,8610,?,False,False,False,135,False,104,0,1361667,False,66,9070108,751,Feel No Ways by Drake,52
+2203,2203,35,39,False,Kanye West,accepted,5,False,8610,?,False,False,False,122,False,365,3,3306405,False,290,8664196,826,"Ultralight Beam by Kanye West (Ft. Chance The Rapper, Kelly Price, Kirk Franklin & The-Dream)",165
+921,921,21,26,False,Outkast,accepted,0,False,693,?,False,False,False,93,False,112,1,594125,False,64,2540907,5353,Roses by OutKast,18
+2089,2089,15,16,False,T.I.,accepted,0,False,10964,?,False,False,False,140,False,168,0,2441784,False,145,9075536,751,Too Good by Drake (Ft. Rihanna),30
+1448,1448,18,21,False,DMX,accepted,0,False,598,?,False,False,False,53,False,35,0,38870,False,60,2079805,7089,The Omen by DMX (Ft. Marilyn Manson),3
+2374,2374,53,54,False,Kanye West,accepted,0,False,8610,?,False,False,False,39,False,315,0,1536371,False,192,8540612,853,No More Parties in LA by Kanye West (Ft. Kendrick Lamar),26
+599,599,42,43,False,Ice Cube,accepted,0,True,419,?,False,False,False,42,False,188,0,1173187,False,161,7502623,10906,Straight Outta Compton by N.W.A,8
+1697,1697,66,67,False,The Game,accepted,0,False,2503,1124,False,False,True,52,True,117,0,275989,False,163,3332640,1434,Bigger Than Me by The Game,3
+1034,1034,35,36,False,Outkast,accepted,0,False,693,?,False,False,False,105,False,68,0,82508,False,18,1200316,7936,Jazzy Belle by OutKast,2
+782,782,18,32,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,49,False,37,0,36710,False,2,10341388,9854,Niggaz 4 Life by N.W.A,1
+1786,1786,67,68,False,The Game,accepted,0,True,2503,1124,False,False,True,47,True,208,0,178665,False,32,10474129,607,Pest Control by The Game,8
+1316,1316,26,31,False,DMX,accepted,0,True,598,?,False,False,False,53,False,78,0,214830,False,87,4712538,6557,Party Up (Up In Here) by DMX,0
+865,865,5,18,False,Ice Cube,unreviewed,0,False,419,?,False,False,False,65,False,20,0,26872,False,10,12249877,9854,I'd Rather Fuck You by N.W.A (Ft. Jewell),2
+2238,2238,45,46,False,Kanye West,accepted,0,True,8610,?,False,False,False,134,False,191,0,2798227,False,1397,4815653,1207,Blessings by Big Sean (Ft. Drake & Kanye West),14
+538,538,42,49,True,Eminem,accepted,1,True,17568,144243,False,False,True,134,True,267,6,961072,False,981,4908570,1364,Guts Over Fear by Eminem (Ft. Sia),27
+1957,1957,40,41,False,T.I.,accepted,0,True,10964,?,False,False,False,66,False,294,0,3318872,False,2527,3274596,1449,0 to 100 / The Catch Up by Drake,67
+2130,2130,13,14,False,T.I.,accepted,0,False,10964,?,False,False,False,71,False,93,0,2256798,False,1395,6350723,1111,My Way (Remix) by Fetty Wap (Ft. Drake),27
+892,892,13,18,False,Outkast,accepted,6,False,693,?,False,False,False,39,False,95,0,932378,False,84,11097528,5367,Hey Ya! by OutKast,11

@@ -1,5 +1,8 @@
 import pandas
-import './genius_api.py'
+#import './genius_api.py'
+import math  
+import caret
+import numpy as np
 
 # Turn file into dataframe!
 f = './data.csv'
@@ -8,8 +11,11 @@ df = pandas.read_csv(f)
 # Shuffle dataframe!
 df = df.sample(frac=1)
 
-# Split 70 / 30 and save 70 as train data and 30 as test data back to csv
 
-# dataframe.to_csv('./train.csv')
-# dataframe.to_csv('./test.csv')
+msk = np.random.rand(len(df)) < 0.7
+train = df[msk]
+test = df[~msk]
+
+train.to_csv('./train.csv')
+test.to_csv('./test.csv')
 
