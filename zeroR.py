@@ -10,6 +10,7 @@ def zeroR(file):
     num_values = len(data['Total_Votes'].values)
 
     mean = sum(data['Total_Votes'].values) / num_values
+    print mean
 
     y_pred = [mean] * num_values
     y_true = data['Total_Votes'].values
