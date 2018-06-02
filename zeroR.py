@@ -21,10 +21,10 @@ def zeroR(file):
     diffs = []
     diffs_sqr = []
     for i in range(len(y_pred)):
-        diffs.append(abs(y_pred[i]-y_true[i]))
-        diffs_sqr.append(abs(y_pred[i]-y_true[i])**2 )
-    print "Mean Error: {} votes".format(sum(diffs)/num_values)
-    print "Mean Squared Error: {} votes^2".format(sum(diffs_sqr)/num_values)
+        diffs.append(abs(y_pred[i] - y_true[i]))
+        diffs_sqr.append(abs(y_pred[i] - y_true[i]) ** 2)
+    print "Mean Error: {} votes".format(sum(diffs) / num_values)
+    print "Mean Squared Error: {} votes^2".format(sum(diffs_sqr) / num_values)
 
 
 if __name__ == '__main__':
